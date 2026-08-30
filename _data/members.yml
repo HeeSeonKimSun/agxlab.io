@@ -5,7 +5,10 @@
 - name: Hee Seon Kim
   group: Faculty
   role: PI
-  affiliation: Associate Professor and Head, Department of Game Contents and Animation, College of Arts, Chung-Ang University
+  affiliation: |
+    Associate Professor and Head, Department of Game Contents and Animation, College of Arts, Chung-Ang University
+    Department of Applied Arts Engineering, Chung-Ang University
+    Department of Global Creative Art, Chung-Ang University
   image: heeseonkim.jpg
   email: heeseonkim@cau.ac.kr
   research: Affective game computing, affective feedback loops, player experience, animation and interactive media
