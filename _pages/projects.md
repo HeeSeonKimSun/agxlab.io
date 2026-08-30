@@ -24,6 +24,6 @@ nav_order: 3
 
 ## International partnerships
 
-- **Academy of Media Arts Cologne (KHM), Germany.** Cooperation agreement between Chung-Ang University and KHM signed on September 16, 2025; seminar by KHM vice-rector Zilvinas Lilas for our students on September 15, 2025. Joint student seminars: Martian Chronicles (2024) and VANISHING LIFE (2026).
-- **Vilnius Academy of Arts, Lithuania.** Erasmus+ inter-institutional agreement with the College of Arts signed in 2026; Re-Animation 2026 summer school at Nida Art Colony.
-- **Anant National University, India.** Cooperation agreement between the College of Arts and the School of Design in preparation. Invited talk by Hee Seon Kim, "Constructed Feeling: How Animation and Games Shape the Architecture of Emotion", at the Mooo 1.0 Students' Moving Image Festival, November 29, 2025.
+- **Academy of Media Arts Cologne (KHM), Germany.** Cooperation agreement, 2025.
+- **Vilnius Academy of Arts, Lithuania.** Erasmus+ inter-institutional agreement, 2026.
+- **Anant National University, India.** Cooperation agreement in preparation.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Upcoming: Professor Hee Seon Kim takes part in the Erasmus+ Re-Animation 2026 summer school in Europe (Nida Art Colony, Lithuania, September 12–22) and gives a presentation there.
+Upcoming: AGX Lab has been selected for Erasmus+ 2026. Professor Hee Seon Kim takes part in the programme in Europe (September 12–22) and gives a presentation there.

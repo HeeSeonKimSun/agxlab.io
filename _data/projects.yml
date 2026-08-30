@@ -2,14 +2,14 @@
 # Fields: title · start (YYYY-MM-DD, sort key) · period (display text) · status (ongoing | upcoming | completed)
 #         kind · partners · people (lab members involved) · description · url (optional) · draft: true (hides the entry)
 
-- title: Erasmus+ Re-Animation 2026 Summer School
+- title: Erasmus+ 2026, Re-Animation Programme
   start: 2026-09-12
   period: 2026
   status: upcoming
   kind: International
-  partners: Vilnius Academy of Arts (host), Erasmus+ Blended Intensive Programme
+  partners: Vilnius Academy of Arts (host, Lithuania), Vilnius Tech (Lithuania), Academy of Media Arts Cologne (Germany), University of Greifswald (Germany), ESAD Amiens (France), Anant National University (India), Chung-Ang University (Korea)
   people: Hee Seon Kim
-  description: International animation summer school at Nida Art Colony, Lithuania. The PI takes part as faculty and presents Chung-Ang University's game and animation programme.
+  description: Selected for Erasmus+ 2026. The lab takes part in the programme and presents Chung-Ang University's game and animation programme.
 
 - title: "GIGDC 2026: Backpack"
   start: 2026-08-12
@@ -27,7 +27,7 @@
   kind: International
   partners: Academy of Media Arts Cologne (KHM, Germany), Anant National University (India), Central Academy of Fine Arts (China), Chung-Ang University (Korea), Jagannath University (Bangladesh), Vilnius Academy of Arts (Lithuania), University of Beira Interior (Portugal)
   people: Hee Seon Kim
-  description: KHM-led international collaborative animation seminar in which teams from seven art schools each produced a chapter of one film. The Chung-Ang University team was led by Professor Hee Seon Kim.
+  description: International collaborative animation seminar in which student teams from seven art schools each produced a chapter of one film. The Chung-Ang University team was led by Professor Hee Seon Kim.
 
 - title: "Future Concept Mobility Collaboration: NEXEN Tire"
   start: 2026-04-18
@@ -43,9 +43,9 @@
   period: 2024
   status: completed
   kind: International
-  partners: Academy of Media Arts Cologne (KHM), National Institute of Design (India), Central Academy of Fine Arts (China), Jagannath University (Bangladesh)
+  partners: Academy of Media Arts Cologne (KHM, Germany), National Institute of Design (India), Central Academy of Fine Arts (China), Jagannath University (Bangladesh), Chung-Ang University (Korea)
   people: Hee Seon Kim, Chae Rin Kim
-  description: International exchange animation project developed by student teams from five schools. The Chung-Ang University team included Chae Rin Kim.
+  description: International exchange animation project developed by student teams from five art schools. The Chung-Ang University team included Chae Rin Kim.
 
 - title: "DE RERUM NATURA: A Climate Change"
   start: 2023-04-01
