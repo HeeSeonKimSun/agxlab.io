@@ -336,3 +336,18 @@ footer {
     gap: 0.25rem 0;
   }
 }
+
+// Navbar brand: pixel mark before the site title
+.agx-nav-mark {
+  width: 28px;
+  height: 28px;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+.navbar-brand.agx-brand {
+  display: inline-flex;
+  align-items: center;
+}

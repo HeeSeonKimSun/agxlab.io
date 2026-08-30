@@ -6,7 +6,7 @@ description: Selected works by the principal investigator, 2015–2025. These pr
 nav: false
 ---
 
-Hee Seon Kim is Associate Professor in the Department of Game Contents and Animation, College of Arts, Chung-Ang University, and the principal investigator of AGX Lab. Her work spans animation, interactive media, and research on affect in games. Lab activities are listed on the [projects]({{ '/projects/' | relative_url }}) and [publications]({{ '/publications/' | relative_url }}) pages.
+Hee Seon Kim is Associate Professor in the Department of Game Contents and Animation, College of Arts, Chung-Ang University, and the principal investigator of AGX Lab. Her work spans animation, interactive media, and research on affect in games. Lab activities are listed on the [projects]({{ '/projects/' | relative_url }}) and [research]({{ '/research/' | relative_url }}) pages.
 
 ## Screenings and talks
 

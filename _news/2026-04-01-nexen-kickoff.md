@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The NEXEN Tire Future Concept Mobility project (April–November 2026) began. The lab supervises the animation and video team.
+The NEXEN Future Concept Mobility Collaboration began, with lab members taking part in the animation and video team.

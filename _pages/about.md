@@ -24,27 +24,27 @@ latest_posts:
 ## research areas
 
 <div class="area">
-  <div class="area-title">Affective–Cognitive Interaction in Games</div>
-  <p>Exploring how emotion and cognition interact to shape play, perception, and decision-making in interactive game environments through affective loops and behavioral modeling.</p>
+  <div class="area-title">Affective Game Computing and Feedback Loops</div>
+  <p>Computational modeling of player affect and its integration into game systems: affective feedback loops that sense emotional and cognitive states from behavioral logs and physiological signals and feed them back into gameplay, studied through controlled experiments, behavioral modeling, and systematic analysis of the field.</p>
 </div>
 
 <div class="area">
-  <div class="area-title">Embodied Interaction &amp; Multimodal Analysis</div>
-  <p>Investigating embodied and predictive processes in gameplay using multimodal behavioral data, such as player choices, reaction time, and interaction patterns.</p>
+  <div class="area-title">Embodied Interaction and Multimodal Player Analytics</div>
+  <p>Measuring embodied and predictive processes in play from multimodal data, such as player choices, reaction time, interaction patterns, and physiological signals, together with the telemetry and analysis pipelines needed to capture and interpret them.</p>
 </div>
 
 <div class="area">
   <div class="area-title">Affective Experience and Media Interaction</div>
-  <p>Exploring how emotional experience is formed and communicated through narrative, animation, and interactive media to understand how affect shapes perception and meaning in digital environments.</p>
+  <p>How emotional experience is formed and communicated through narrative, animation, and interactive media, combining creative production with empirical evaluation to understand how affect shapes perception and meaning in digital environments.</p>
 </div>
 
-See the [research]({{ '/research/' | relative_url }}) page for ongoing work and the [projects]({{ '/projects/' | relative_url }}) page for collaborations.
+See the [research]({{ '/research/' | relative_url }}) page for key research outputs and the [projects]({{ '/projects/' | relative_url }}) page for collaborations.
 
 <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a></h2>
 
 {% include news.liquid limit=true %}
 
-<h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a></h2>
+<h2><a href="{{ '/research/' | relative_url }}" style="color: inherit">selected publications</a></h2>
 
 {% include selected_papers.liquid %}
 

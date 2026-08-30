@@ -4,7 +4,7 @@ title: people
 permalink: /people/
 description: Members of the Affective Game Experience Lab.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 {% assign groups = "Faculty|Graduate Students|Undergraduate Research Assistants|Alumni" | split: "|" %}

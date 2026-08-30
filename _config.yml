@@ -345,6 +345,8 @@ scholar:
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
+  sort_by: year,sortkey # sortkey (1, 2, 3 ...) orders entries within the same year; lower comes first
+  order: descending,ascending
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
@@ -394,6 +396,7 @@ filtered_bibtex_keywords:
     preview,
     selected,
     slides,
+    sortkey,
     supp,
     video,
     website,
