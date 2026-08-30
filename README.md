@@ -10,7 +10,7 @@ Affective Game Experience Lab, Chung-Ang University. Built with [al-folio](https
 | 구성원 추가·수정 | `_data/members.yml` 한 블록 + 사진을 `assets/img/members/` 에 정사각형(약 480px) JPG로. 사진이 없으면 `image` 줄을 빼면 이니셜로 표시 |
 | 소식 추가 | `_news/YYYY-MM-DD-slug.md` (짧은 한 줄이면 `inline: true`). 날짜는 공지일 기준, 예정 항목은 본문을 "Upcoming:"으로 시작 |
 | 프로젝트·협업 추가 | `_data/projects.yml` 한 블록(`start` 날짜로 최신순 정렬, `status`는 ongoing/upcoming/completed, 숨기려면 `draft: true`) |
-| PI 개인 이력 | `_pages/pi.md` (랩 실적과 분리해 둔 페이지, 메뉴에는 없음) |
+| 구성원 연구 분야 | `_data/members.yml` 의 `research:` 한 줄 (확인 전에는 비워 둠) |
 | 홈 문안·연구 영역·모집 안내 | `_pages/about.md` |
 | 연구 페이지 | `_pages/research.md` (목록 자체는 papers.bib에서 생성). 논문 썸네일은 `assets/img/publication_preview/` |
 | 색·글꼴 | `_sass/_variables.scss` (색 값), `_sass/_themes.scss` (역할별 색), `_sass/_typography.scss` (글꼴·구성원 그리드) |

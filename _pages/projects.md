@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Creative, industry, and international collaborations of the lab, newest first.
+description: Creative, industry, and international collaborations, newest first. Entries before 2023 are earlier works by the PI.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 {% assign items = site.data.projects | where_exp: "p", "p.draft != true" | sort: "start" | reverse %}

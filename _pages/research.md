@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 description: Key research outputs of the lab, newest first. Work in progress appears at the top; published work follows.
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 ## Key Research Outputs
@@ -15,4 +15,4 @@ nav_order: 1
 
 </div>
 
-Creative, industry, and international collaborations are listed on the [projects]({{ '/projects/' | relative_url }}) page; selected earlier works by the PI are on [Hee Seon Kim]({{ '/pi/' | relative_url }}).
+Creative, industry, and international collaborations, including the PI's earlier works, are listed on the [projects]({{ '/projects/' | relative_url }}) page.

@@ -352,25 +352,6 @@ footer {
   align-items: center;
 }
 
-// People page: faculty card with a bio beside it
-.faculty-row {
-  display: grid;
-  grid-template-columns: 200px 1fr;
-  gap: 1rem 2.5rem;
-  align-items: start;
-  margin: 1.5rem 0 1rem;
-}
-
-.member-bio p {
-  margin-bottom: 0.75rem;
-}
-
-@media (max-width: 575px) {
-  .faculty-row {
-    grid-template-columns: 1fr;
-  }
-}
-
 // Home page: contact icons at a modest size
 article .social {
   margin-top: 1.5rem;
@@ -382,4 +363,19 @@ article .social .contact-icons {
 
 article .social .contact-note {
   margin-top: 0.25rem;
+}
+
+// People page: research areas line
+.member-research {
+  font-size: 0.85rem;
+  line-height: 1.4;
+  margin-top: 0.4rem;
+}
+
+.member-research-label {
+  display: block;
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--global-theme-color);
 }
