@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The NEXEN Future Concept Mobility Collaboration began, with lab members taking part in the animation and video team.
+The Future Concept Mobility Collaboration with NEXEN Tire began, with lab members taking part in the animation and video team.

@@ -10,7 +10,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: false # rendered in the body below; limit/scrollable are still read by news.liquid
   scrollable: true
-  limit: 5
+  limit: 3
 
 latest_posts:
   enabled: false
@@ -44,7 +44,7 @@ See the [research]({{ '/research/' | relative_url }}) page for key research outp
 
 {% include news.liquid limit=true %}
 
-<h2><a href="{{ '/research/' | relative_url }}" style="color: inherit">selected publications</a></h2>
+<h2><a href="{{ '/research/' | relative_url }}" style="color: inherit">recent projects &amp; publications</a></h2>
 
 {% include selected_papers.liquid %}
 

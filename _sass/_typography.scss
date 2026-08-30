@@ -370,3 +370,16 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+
+// Home page: contact icons at a modest size
+article .social {
+  margin-top: 1.5rem;
+}
+
+article .social .contact-icons {
+  font-size: 1.6rem;
+}
+
+article .social .contact-note {
+  margin-top: 0.25rem;
+}

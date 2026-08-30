@@ -2,9 +2,9 @@
 # Fields: title · start (YYYY-MM-DD, sort key) · period (display text) · status (ongoing | upcoming | completed)
 #         kind · partners · people (lab members involved) · description · url (optional) · draft: true (hides the entry)
 
-- title: Erasmus+ Re-Animation 2026 Summer School, Nida Art Colony
+- title: Erasmus+ Re-Animation 2026 Summer School
   start: 2026-09-12
-  period: Sept 12–22, 2026
+  period: 2026
   status: upcoming
   kind: International
   partners: Vilnius Academy of Arts (host), Erasmus+ Blended Intensive Programme
@@ -22,25 +22,25 @@
 
 - title: VANISHING LIFE 2026
   start: 2026-04-17
-  period: Apr 17 – Jul 10, 2026
+  period: 2026
   status: completed
   kind: International
   partners: Academy of Media Arts Cologne (KHM, Germany), Anant National University (India), Central Academy of Fine Arts (China), Chung-Ang University (Korea), Jagannath University (Bangladesh), Vilnius Academy of Arts (Lithuania), University of Beira Interior (Portugal)
   people: Hee Seon Kim
   description: KHM-led international collaborative animation seminar in which teams from seven art schools each produced a chapter of one film. The Chung-Ang University team was led by Professor Hee Seon Kim.
 
-- title: NEXEN, Future Concept Mobility Collaboration
-  start: 2026-04-01
+- title: "Future Concept Mobility Collaboration: NEXEN Tire"
+  start: 2026-04-18
   period: 2026
   status: ongoing
   kind: University–industry collaboration
-  partners: NEXEN
+  partners: NEXEN Tire
   people: Hee Seon Kim, Jeong Min Won, Chae Rin Kim, Weijie Lu
   description: Next-generation mobility systems encompassing autonomous robotics, user-inclusive vehicles, and a cross-domain mobility ecosystem.
 
 - title: Martian Chronicles
   start: 2024-04-12
-  period: Apr 12 – Jul 5, 2024
+  period: 2024
   status: completed
   kind: International
   partners: Academy of Media Arts Cologne (KHM), National Institute of Design (India), Central Academy of Fine Arts (China), Jagannath University (Bangladesh)
@@ -49,7 +49,7 @@
 
 - title: "DE RERUM NATURA: A Climate Change"
   start: 2023-04-01
-  period: Apr – Jul 2023
+  period: 2023
   status: completed
   kind: International
   partners: Eight art schools, including KHM Cologne, Bauhaus-Universität Weimar, Central Academy of Fine Arts, National Institute of Design, Accademia di Belle Arti di Napoli, Estudio el Palmeral de Barcelona and Jagannath University
