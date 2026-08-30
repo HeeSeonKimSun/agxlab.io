@@ -11,7 +11,7 @@ nav_order: 3
 {% assign research = items | where: "group", "research" %}
 {% assign media = items | where: "group", "media" %}
 
-## Projects and Collaborations
+## Selected Projects and Collaborations
 
 <div class="projects-list">
 {% for p in research %}

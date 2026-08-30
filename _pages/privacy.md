@@ -34,7 +34,7 @@ nav: false
 개인정보 관련 문의는 아래로 연락해 주십시오.
 
 김희선(연구책임자), 중앙대학교 예술대학 글로벌예술학부 게임콘텐츠·애니메이션전공
-{{ "heeseonkim@cau.ac.kr" | encode_email }}
+<a href="mailto:heeseonkim@cau.ac.kr">heeseonkim@cau.ac.kr</a>
 
 ### 6. 시행일
 
@@ -52,4 +52,4 @@ Fonts and display scripts are loaded from Google Fonts (fonts.googleapis.com, fo
 
 Email addresses published here are for enquiries to the lab. Collecting them with automated tools is refused, and doing so is punishable under Article 50-2 of the Korean Act on Promotion of Information and Communications Network Utilisation and Information Protection.
 
-For questions about this notice, write to Hee Seon Kim, {{ "heeseonkim@cau.ac.kr" | encode_email }}. Effective 30 August 2026.
+For questions about this notice, write to Hee Seon Kim, <a href="mailto:heeseonkim@cau.ac.kr">heeseonkim@cau.ac.kr</a>. Effective 30 August 2026.

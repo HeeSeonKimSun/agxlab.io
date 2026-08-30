@@ -21,7 +21,7 @@ nav_order: 1
     {% endif %}
     <div class="member-name">{{ m.name }}</div>
     <div class="member-role">{{ m.role }}</div>
-    {% if m.email %}<div class="member-links">{{ m.email | encode_email }}</div>{% endif %}
+    {% if m.email %}<div class="member-links"><a href="mailto:{{ m.email }}">{{ m.email }}</a></div>{% endif %}
   </div>
   <div class="faculty-info">
     <div class="faculty-affil">{{ m.affiliation | newline_to_br }}</div>
@@ -51,7 +51,7 @@ nav_order: 1
     <div class="member-role">{{ m.role }}</div>
     <div class="member-affil">{{ m.affiliation }}</div>
     {% if m.research %}<div class="member-research"><span class="member-research-label">Research Area</span> {{ m.research }}</div>{% endif %}
-    {% if m.email %}<div class="member-links">{{ m.email | encode_email }}</div>{% endif %}
+    {% if m.email %}<div class="member-links"><a href="mailto:{{ m.email }}">{{ m.email }}</a></div>{% endif %}
   </div>
   {% endfor %}
 </div>
@@ -63,4 +63,4 @@ nav_order: 1
 
 AGX Lab welcomes students and researchers interested in emotion, cognition, games, animation, and interactive media. We explore affective game computing and embodied experience through both creative and empirical approaches. No prior experience is required.
 
-For applications or inquiries, please contact {{ "heeseonkim@cau.ac.kr" | encode_email }}.
+For applications or inquiries, please contact [heeseonkim@cau.ac.kr](mailto:heeseonkim@cau.ac.kr).
