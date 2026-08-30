@@ -29,7 +29,7 @@ nav_order: 5
 
 <div class="lang-block">
 
-<h2>연구실 지원 안내</h2>
+<h2 class="agx-join"><img class="agx-join-mark" src="{{ '/assets/img/agx_pixel_happy.gif' | relative_url }}" width="40" height="40" alt="">연구실 지원 안내</h2>
 
 <p>AGX Lab은 정서, 인지, 게임, 인터랙티브 미디어에 관심 있는 학생과 연구자를 환영합니다. 정서 게임 컴퓨팅과 체화된 경험을 창작과 실증 연구 양쪽으로 다룹니다. 연구 경험이 없어도 괜찮습니다. 수업과 연구실 프로젝트, 국제 협업을 거치며 기초부터 쌓아갈 수 있습니다.</p>
 
@@ -49,7 +49,7 @@ nav_order: 5
 
 <div class="lang-block">
 
-<h2>加入实验室</h2>
+<h2 class="agx-join"><img class="agx-join-mark" src="{{ '/assets/img/agx_pixel_happy.gif' | relative_url }}" width="40" height="40" alt="">加入实验室</h2>
 
 <p>AGX Lab 欢迎对情感、认知、游戏与交互媒体感兴趣的学生和研究者。我们以创作与实证两种方式研究情感游戏计算与具身体验。没有研究经验也没有关系，可以通过课程、实验室项目和国际合作从基础开始积累。</p>
 
