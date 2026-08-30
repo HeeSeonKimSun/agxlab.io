@@ -12,6 +12,23 @@ nav_order: 3
   {% assign ms = site.data.members | where: "group", g %}
   {% if ms.size > 0 %}
 <h2 class="members-group">{{ g }}</h2>
+{% if g == "Faculty" %}
+  {% for m in ms %}
+<div class="faculty-row">
+  <div class="member">
+    {% if m.image %}
+    <img class="member-photo" src="{{ m.image | prepend: '/assets/img/members/' | relative_url }}" alt="{{ m.name }}" loading="lazy">
+    {% endif %}
+    <div class="member-name">{{ m.name }}</div>
+    <div class="member-role">{{ m.role }}</div>
+    <div class="member-affil">{{ m.affiliation }}</div>
+    {% if m.email %}<div class="member-links"><a href="mailto:{{ m.email }}">{{ m.email }}</a></div>{% endif %}
+    {% if m.url %}<div class="member-links"><a href="{{ m.url | relative_url }}">{{ m.url_label | default: "Profile" }}</a></div>{% endif %}
+  </div>
+  <div class="member-bio">{{ m.bio | markdownify }}</div>
+</div>
+  {% endfor %}
+{% else %}
 <div class="members-grid">
   {% for m in ms %}
   <div class="member">
@@ -29,6 +46,7 @@ nav_order: 3
   </div>
   {% endfor %}
 </div>
+{% endif %}
   {% endif %}
 {% endfor %}
 

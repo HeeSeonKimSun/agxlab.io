@@ -351,3 +351,22 @@ footer {
   display: inline-flex;
   align-items: center;
 }
+
+// People page: faculty card with a bio beside it
+.faculty-row {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 1rem 2.5rem;
+  align-items: start;
+  margin: 1.5rem 0 1rem;
+}
+
+.member-bio p {
+  margin-bottom: 0.75rem;
+}
+
+@media (max-width: 575px) {
+  .faculty-row {
+    grid-template-columns: 1fr;
+  }
+}
