@@ -11,18 +11,17 @@ nav_order: 5
 
 <h2>Join the Lab</h2>
 
-<p>AGX Lab welcomes students and researchers interested in emotion, cognition, and interactive media. We study affective game computing and embodied experience through both creative and empirical approaches. No prior research experience is required: you can start from the basics and build up through coursework, lab projects, and international collaborations.</p>
+<p>AGX Lab welcomes students and researchers interested in emotion, cognition, games, and interactive media. We study affective game computing and embodied experience through both creative and empirical approaches. No prior research experience is required: you can start from the basics and build up through coursework, lab projects, and international collaborations.</p>
 
-<p>We are glad to hear from:</p>
 <ul>
-  <li>Prospective graduate students, master's and doctoral, in Applied Arts Engineering or Global Creative Art</li>
+  <li>Prospective master's and doctoral students in Applied Arts Engineering or Global Creative Art, Graduate School</li>
   <li>Undergraduates in Game Contents and Animation who want to take part in a lab project</li>
   <li>Visiting students and researchers from partner institutions</li>
 </ul>
 
 <h3>Scholarships and funding</h3>
 
-<p>Graduate applicants may be eligible for university and national scholarships, and for research assistantships on funded projects. What is available depends on the programme and the admission cycle, so please write before you apply and we will go through the current options together.</p>
+<p>Graduate applicants can apply for university and national scholarships, and for research assistantships on funded projects. What can be applied for depends on the programme and the admission cycle, so please write before you apply and we will go through the current options together.</p>
 
 <p>For scholarship and funding enquiries, write to <a href="mailto:heeseonkim@cau.ac.kr">heeseonkim@cau.ac.kr</a>.</p>
 
@@ -32,18 +31,17 @@ nav_order: 5
 
 <h2>연구실 지원 안내</h2>
 
-<p>AGX Lab은 정서, 인지, 인터랙티브 미디어에 관심 있는 학생과 연구자를 환영합니다. 정서 게임 컴퓨팅과 체화된 경험을 창작과 실증 연구 양쪽으로 다룹니다. 연구 경험이 없어도 괜찮습니다. 수업과 연구실 프로젝트, 국제 협업을 거치며 기초부터 쌓아갈 수 있습니다.</p>
+<p>AGX Lab은 정서, 인지, 게임, 인터랙티브 미디어에 관심 있는 학생과 연구자를 환영합니다. 정서 게임 컴퓨팅과 체화된 경험을 창작과 실증 연구 양쪽으로 다룹니다. 연구 경험이 없어도 괜찮습니다. 수업과 연구실 프로젝트, 국제 협업을 거치며 기초부터 쌓아갈 수 있습니다.</p>
 
-<p>이런 분들의 연락을 기다립니다.</p>
 <ul>
-  <li>응용예술공학과, 글로벌크리에이티브아트학과 대학원 진학을 준비하는 분(석사, 박사)</li>
+  <li>일반대학원 응용예술공학과, 글로벌크리에이티브아트학과 대학원 진학을 준비하는 분(석사, 박사)</li>
   <li>연구실 프로젝트에 참여하고 싶은 게임콘텐츠·애니메이션전공 학부생</li>
   <li>협정 대학에서 오는 방문 학생과 연구자</li>
 </ul>
 
 <h3>장학금과 연구비</h3>
 
-<p>대학원 지원자는 교내 장학금과 국가 장학금, 연구 과제 참여 연구원 지원을 받을 수 있습니다. 지원 가능한 범위는 과정과 모집 시기에 따라 달라지므로, 지원 전에 메일을 주시면 현재 가능한 선택지를 함께 살펴보겠습니다.</p>
+<p>대학원 지원자는 교내 장학금과 국가 장학금, 연구 과제 참여 연구원 지원에 지원할 수 있습니다. 지원 가능한 범위는 과정과 모집 시기에 따라 달라지므로, 지원 전에 메일을 주시면 현재 가능한 선택지를 함께 살펴보겠습니다.</p>
 
 <p>장학금과 연구비 문의는 <a href="mailto:heeseonkim@cau.ac.kr">heeseonkim@cau.ac.kr</a>로 보내 주세요.</p>
 
@@ -53,11 +51,10 @@ nav_order: 5
 
 <h2>加入实验室</h2>
 
-<p>AGX Lab 欢迎对情感、认知与交互媒体感兴趣的学生和研究者。我们以创作与实证两种方式研究情感游戏计算与具身体验。没有研究经验也没有关系，可以通过课程、实验室项目和国际合作从基础开始积累。</p>
+<p>AGX Lab 欢迎对情感、认知、游戏与交互媒体感兴趣的学生和研究者。我们以创作与实证两种方式研究情感游戏计算与具身体验。没有研究经验也没有关系，可以通过课程、实验室项目和国际合作从基础开始积累。</p>
 
-<p>我们欢迎以下同学与研究者来信：</p>
 <ul>
-  <li>准备报考应用艺术工学系或全球创意艺术系的硕士、博士研究生</li>
+  <li>准备报考普通研究生院应用艺术工学系或全球创意艺术系的硕士、博士研究生</li>
   <li>希望参与实验室项目的游戏内容与动画专业本科生</li>
   <li>来自合作院校的访问学生与研究者</li>
 </ul>
