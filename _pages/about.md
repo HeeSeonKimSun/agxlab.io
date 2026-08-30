@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Affective Game Experience Lab</b> · Chung-Ang University
+subtitle: 정서 게임 경험 연구실 · <b>Affective Game Experience Lab</b> · Chung-Ang University
 
 selected_papers: false # rendered in the body below so that section order can be controlled
 social: true # includes social icons at the bottom of the page
