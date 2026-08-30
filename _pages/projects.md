@@ -21,6 +21,7 @@ nav_order: 3
     <div class="project-body">
       <div class="project-title">{% if p.url %}<a href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}{% if p.status == "ongoing" or p.status == "upcoming" %} <span class="project-status">{{ p.status }}</span>{% endif %}</div>
       <div class="project-meta">{{ p.kind }}{% if p.partners %} · {{ p.partners }}{% endif %}</div>
+      {% if p.image %}<img class="project-img" src="{{ p.image | prepend: '/assets/img/projects/' | relative_url }}" alt="{{ p.title }}" loading="lazy">{% endif %}
       <p class="project-desc">{{ p.description }}</p>
       {% if p.people %}<div class="project-meta">Team: {{ p.people }}</div>{% endif %}
     </div>
@@ -37,6 +38,7 @@ nav_order: 3
     <div class="project-body">
       <div class="project-title">{% if p.url %}<a href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}{% if p.status == "ongoing" or p.status == "upcoming" %} <span class="project-status">{{ p.status }}</span>{% endif %}</div>
       <div class="project-meta">{{ p.kind }}{% if p.partners %} · {{ p.partners }}{% endif %}</div>
+      {% if p.image %}<img class="project-img" src="{{ p.image | prepend: '/assets/img/projects/' | relative_url }}" alt="{{ p.title }}" loading="lazy">{% endif %}
       <p class="project-desc">{{ p.description }}</p>
     </div>
   </div>

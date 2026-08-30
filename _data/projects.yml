@@ -160,13 +160,13 @@
 - title: Retrospect Future
   start: 2017-09-01
   group: media
-  compact: true
   period: 2017
   status: completed
   kind: Collaborative exhibition
   partners: Seoul Biennale of Architecture & Urbanism × Yonsei University
   people: Hee Seon Kim
   description: Collaborative exhibition examining memory and urban cognition through spatial storytelling and immersive visualization.
+  image: retrospect_future.jpg
 
 - title: Butterfly Lover
   start: 2015-06-01
