@@ -30,8 +30,6 @@ nav_order: 3
 
 ## Media Works and Recognition
 
-<p class="section-note">Works by Hee Seon Kim, the lab's principal investigator.</p>
-
 <div class="projects-list">
 {% for p in media %}{% unless p.compact %}
   <div class="project">
@@ -41,6 +39,7 @@ nav_order: 3
       <div class="project-meta">{{ p.kind }}{% if p.partners %} · {{ p.partners }}{% endif %}</div>
       {% if p.image %}<img class="project-img" src="{{ p.image | prepend: '/assets/img/projects/' | relative_url }}" alt="{{ p.title }}" loading="lazy">{% endif %}
       <p class="project-desc">{{ p.description }}</p>
+      {% if p.people %}<div class="project-people">Team: {{ p.people }}</div>{% endif %}
     </div>
   </div>
 {% endunless %}{% endfor %}
