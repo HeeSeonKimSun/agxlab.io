@@ -25,20 +25,20 @@ latest_posts:
 
 <div class="area">
   <div class="area-title">Affective–Cognitive Interaction in Games</div>
-  <p>Exploring how emotion and cognition interact to shape play, perception, and decision-making in interactive game environments through affective loops and behavioral modeling. Grounded in affective game computing, we model player affect computationally and design affective feedback loops that sense emotional and cognitive states from behavioral logs and physiological signals and feed them back into gameplay.</p>
+  <p class="area-keywords">Affective game computing · Affective feedback loops · Behavioral modeling · Decision-making in play</p>
 </div>
 
 <div class="area">
   <div class="area-title">Embodied Interaction and Multimodal Player Analytics</div>
-  <p>Investigating embodied and predictive processes in gameplay using multimodal behavioral data, such as player choices, reaction time, interaction patterns, and physiological signals, together with the telemetry and analysis pipelines needed to capture and interpret them.</p>
+  <p class="area-keywords">Multimodal behavioral data · Reaction time and interaction patterns · Physiological signals · Telemetry and analysis pipelines</p>
 </div>
 
 <div class="area">
   <div class="area-title">Affective Experience through Animation and Interactive Media</div>
-  <p>Exploring how emotional experience is formed and communicated through narrative, animation, and interactive media, to understand how affect shapes perception and meaning in digital environments. Animation and interaction design are also how we work: creative production runs alongside experiments, so prototypes, films, and games serve as both research instruments and outcomes.</p>
+  <p class="area-keywords">Narrative and animation · Interactive media · Creative production as research method · Perception and meaning</p>
 </div>
 
-See the [research]({{ '/research/' | relative_url }}) page for key research outputs and the [projects]({{ '/projects/' | relative_url }}) page for collaborations.
+See the [research]({{ '/research/' | relative_url }}) page for the full description of each area and for key research outputs.
 
 <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a></h2>
 

@@ -4,6 +4,7 @@
 
 - title: Erasmus+ 2026, Re-Animation Programme
   start: 2026-09-12
+  group: research
   period: 2026
   status: upcoming
   kind: International
@@ -13,6 +14,7 @@
 
 - title: "GIGDC 2026: Backpack"
   start: 2026-08-12
+  group: research
   period: 2026
   status: ongoing
   kind: Student competition
@@ -22,15 +24,17 @@
 
 - title: VANISHING LIFE 2026
   start: 2026-04-17
+  group: research
   period: 2026
   status: completed
   kind: International
   partners: Academy of Media Arts Cologne (KHM, Germany), Anant National University (India), Central Academy of Fine Arts (China), Chung-Ang University (Korea), Jagannath University (Bangladesh), Vilnius Academy of Arts (Lithuania), University of Beira Interior (Portugal)
-  people: Hee Seon Kim
+  people: Cheolhun Jang, Yuju Min, Sofiya, Soeun Kim, Yejin Son
   description: International collaborative animation seminar in which student teams from seven art schools each produced a chapter of one film. The Chung-Ang University team was led by Professor Hee Seon Kim.
 
-- title: "Future Concept Mobility Collaboration: NEXEN Tire"
+- title: Future Concept Mobility Collaboration
   start: 2026-04-18
+  group: research
   period: 2026
   status: ongoing
   kind: University–industry collaboration
@@ -38,17 +42,19 @@
   people: Hee Seon Kim, Jeong Min Won, Chae Rin Kim, Weijie Lu
   description: Next-generation mobility systems encompassing autonomous robotics, user-inclusive vehicles, and a cross-domain mobility ecosystem.
 
-- title: Martian Chronicles
+- title: Martian Chronicle
   start: 2024-04-12
+  group: research
   period: 2024
   status: completed
   kind: International
   partners: Academy of Media Arts Cologne (KHM, Germany), National Institute of Design (India), Central Academy of Fine Arts (China), Jagannath University (Bangladesh), Chung-Ang University (Korea)
-  people: Hee Seon Kim, Chae Rin Kim
-  description: International exchange animation project developed by student teams from five art schools. The Chung-Ang University team included Chae Rin Kim.
+  people: Maksim Tsoy, Xuanyu Liu, Kyungjin Kim, Chae Rin Kim
+  description: International exchange animation project developed by student teams from five art schools, with a Chung-Ang University team.
 
 - title: "DE RERUM NATURA: A Climate Change"
   start: 2023-04-01
+  group: research
   period: 2023
   status: completed
   kind: International collaborative development project
@@ -60,6 +66,7 @@
 
 - title: "Invited Lecture: Affect and Emotion, Embodied Experience"
   start: 2025-11-29
+  group: media
   period: 2025
   status: completed
   kind: Invited lecture
@@ -69,6 +76,7 @@
 
 - title: Invited Talk, Academy of Media Arts Cologne (KHM)
   start: 2025-01-21
+  group: media
   period: 2025
   status: completed
   kind: Invited talk
@@ -78,6 +86,7 @@
 
 - title: Invited Screening and Discussion, University of Westminster
   start: 2023-02-02
+  group: media
   period: 2023
   status: completed
   kind: Invited screening
@@ -87,6 +96,7 @@
 
 - title: Google Arts & Culture × V&A Museum, UK–KR
   start: 2022-08-16
+  group: media
   period: 2022–2023
   status: completed
   kind: Project collaboration
@@ -96,6 +106,7 @@
 
 - title: Invited Exhibition, National Assembly of the Republic of Korea
   start: 2022-11-17
+  group: media
   period: 2022
   status: completed
   kind: Exhibition
@@ -105,6 +116,7 @@
 
 - title: Invited Screening, Chitrakatha International Festival
   start: 2021-11-25
+  group: media
   period: 2021
   status: completed
   kind: Invited screening
@@ -114,6 +126,8 @@
 
 - title: Wadang-Tang Tung-Tung
   start: 2020-12-20
+  group: media
+  compact: true
   period: 2020–2021
   status: completed
   kind: Installation
@@ -123,6 +137,8 @@
 
 - title: Ultrashorts Project
   start: 2020-09-22
+  group: media
+  compact: true
   period: 2020
   status: completed
   kind: Project collaboration
@@ -132,15 +148,19 @@
 
 - title: Four Seasons, Media Facade Project
   start: 2019-06-01
+  group: media
+  compact: true
   period: 2019
   status: completed
   kind: Media facade
-  partners: Korea Creative Content Agency & Gimpo Foundation for Arts and Culture
+  partners: Korea Creative Content Agency (KOCCA)
   people: Hee Seon Kim
   description: An interactive public media work transforming environmental data into emotional color mapping and dynamic architectural projection.
 
 - title: Retrospect Future
   start: 2017-09-01
+  group: media
+  compact: true
   period: 2017
   status: completed
   kind: Collaborative exhibition
@@ -150,6 +170,8 @@
 
 - title: Butterfly Lover, Interactive Orchestra Project
   start: 2015-06-01
+  group: media
+  compact: true
   period: 2015
   status: completed
   kind: Performance research
@@ -159,6 +181,8 @@
 
 - title: Best Indie Animation, British Film Institute (BFI)
   start: 2015-01-01
+  group: media
+  compact: true
   period: 2015
   status: completed
   kind: Recognition
@@ -166,17 +190,19 @@
   people: Hee Seon Kim
   description: Selected as Best Indie Animation and archived in the BFI National Archive collection for its experimental affective animation research output.
 
-- title: Registered Evaluator, Korea Creative Content Agency (KOCCA)
+- title: Evaluator, Korea Creative Content Agency (KOCCA)
   start: 2023-01-01
+  group: media
   period: 2023–present
   status: ongoing
   kind: Service
   partners: Korea Creative Content Agency (KOCCA), Ministry of Culture, Sports and Tourism
   people: Hee Seon Kim
-  description: Registered evaluator for national content programmes.
+  description: Evaluator for national content programmes.
 
 - title: Jury, Indie-AniFest (Korean Independent Animation Film Festival)
   start: 2021-01-01
+  group: media
   period: 2018, 2021
   status: completed
   kind: Service
@@ -186,6 +212,8 @@
 
 - title: Final Jury, Chitrakatha International Film Festival
   start: 2017-11-01
+  group: media
+  compact: true
   period: 2017
   status: completed
   kind: Service
@@ -195,6 +223,8 @@
 
 - title: "The River: international festival selections"
   start: 2016-01-01
+  group: media
+  compact: true
   period: 2015–2017
   status: completed
   kind: Recognition
@@ -204,6 +234,8 @@
 
 - title: Grand Prize, Chitrakatha International Film Festival
   start: 2015-11-01
+  group: media
+  compact: true
   period: 2015
   status: completed
   kind: Recognition

@@ -414,3 +414,42 @@ article .social .contact-note {
     grid-template-columns: 1fr;
   }
 }
+
+// Home page: research areas as keyword lines
+.area-keywords {
+  color: var(--global-text-color-light);
+}
+
+// Projects page: condensed list for older entries
+.projects-compact {
+  margin: 0 0 2rem;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+.project-line {
+  display: grid;
+  grid-template-columns: 9rem 1fr;
+  gap: 0 1.25rem;
+  padding: 0.5rem 0;
+  border-top: 1px solid var(--global-divider-color);
+  font-size: 0.95rem;
+}
+
+.project-line .project-when {
+  padding-top: 0;
+}
+
+.project-line-title {
+  font-weight: 500;
+}
+
+.project-line .project-meta {
+  display: inline;
+  font-size: 0.85rem;
+}
+
+@media (max-width: 575px) {
+  .project-line {
+    grid-template-columns: 1fr;
+  }
+}
