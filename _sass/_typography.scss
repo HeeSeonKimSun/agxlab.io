@@ -289,7 +289,7 @@ footer {
 
 .project {
   display: grid;
-  grid-template-columns: 9rem 1fr;
+  grid-template-columns: 9rem minmax(0, 1fr);
   gap: 0 1.25rem;
   padding: 1rem 0;
   border-top: 1px solid var(--global-divider-color);
@@ -428,7 +428,7 @@ article .social .contact-note {
 
 .project-line {
   display: grid;
-  grid-template-columns: 9rem 1fr;
+  grid-template-columns: 9rem minmax(0, 1fr);
   gap: 0 1.25rem;
   padding: 0.5rem 0;
   border-top: 1px solid var(--global-divider-color);
@@ -463,4 +463,14 @@ article .social .contact-note {
 
 .project-line-body {
   display: block;
+}
+
+// Projects page: optional image inside an entry
+.project-img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0.6rem 0 0.2rem;
+  border: 1px solid var(--global-divider-color);
 }
