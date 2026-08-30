@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <b>Affective Game Experience Lab</b> · Chung-Ang University
 
@@ -21,7 +21,7 @@ latest_posts:
   <p>We seek to explore how emotion and cognition interact within games and interactive media. Grounded in affective game computing and cognitive science, our research aims to understand how affective signals and cognitive processes shape play, decision-making, and multimodal experience through experimental and creative approaches. Alongside empirical studies, the lab takes part in creative production in animation and games with industry and international partners.</p>
 </div>
 
-## research areas
+## Research Areas
 
 <div class="area">
   <div class="area-title">Affective–Cognitive Interaction in Games</div>
@@ -40,15 +40,15 @@ latest_posts:
 
 See the [research]({{ '/research/' | relative_url }}) page for key research outputs and the [projects]({{ '/projects/' | relative_url }}) page for collaborations.
 
-<h2><a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a></h2>
+<h2><a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a></h2>
 
 {% include news.liquid limit=true %}
 
-<h2><a href="{{ '/research/' | relative_url }}" style="color: inherit">recent projects &amp; publications</a></h2>
+<h2><a href="{{ '/research/' | relative_url }}" style="color: inherit">Recent Projects &amp; Publications</a></h2>
 
 {% include selected_papers.liquid %}
 
-## join our lab
+## Join Our Lab
 
 AGX Lab welcomes students and researchers interested in emotion, cognition, and interactive media. We explore affective game computing and embodied experience through both creative and empirical approaches. No prior experience is required: you can grow from the basics through research and projects.
 

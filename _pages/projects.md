@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Creative, industry, and international collaborations, newest first. Exhibitions, screenings, and talks credited to Hee Seon Kim alone are the PI’s own works.
 nav: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 description: Key research outputs of the lab, newest first. Work in progress appears at the top; published work follows.
 nav: true
