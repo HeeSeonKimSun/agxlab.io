@@ -59,7 +59,7 @@
   status: completed
   kind: International collaborative development project
   partners: Academy of Media Arts Cologne, Bauhaus University Weimar, China Central Academy of Fine Arts, National Institute of Design India, Accademia di Belle Arti di Napoli, El Palmaral Barcelona, Chung-Ang University
-  people: Hee Seon Kim
+  people: Juyong Jeong, Seonyu Kim, Haedeun Lee, Heewon Kim, Hyeonjeong Park
   description: International collaborative development project across seven art schools, with a Chung-Ang University student team.
 
 # ---- Earlier works by the PI (wording from the previous agxlab.io research page) ----
@@ -218,10 +218,10 @@
   people: Hee Seon Kim
   description: An animated short selected and screened at festivals in fifteen countries, with jury awards in Austria, India, and Korea. Sight and Sound (British Film Institute) selected it as Best Indie Animation of 2015, and it entered the BFI animation film collection.
 
-- title: Unlimited Space
+- title: NEXEN Tire Media Wall Screening
   start: 2026-04-20
   group: research
-  period: 2026–present
+  period: 2026
   status: ongoing
   kind: Media wall video production
   partners: NEXEN Design Gallery, THE NEXEN univerCITY
@@ -237,3 +237,14 @@
   partners: 3D Design Lab, Chung-Ang University
   people: Jeong Min Won
   description: A special lecture series on Unreal Engine 5, Blender, and ComfyUI, hosted by the 3D Design Lab. Jeong Min Won of AGX Lab taught the Blender sessions.
+
+- title: "Don't Panic!"
+  start: 2023-11-29
+  group: research
+  period: 2023
+  status: completed
+  kind: Projection mapping exhibition
+  partners: Art Center Gallery 301, Chung-Ang University Seoul Campus
+  url: https://ga.cau.ac.kr/news/-dont-panic
+  people: Kyungjin Kim, Chae Rin Kim, Hyeonjeong Park, Woomi So, Bomin Seo, Xuanyu Liu, Maksim Tsoy, Rira Choi
+  description: A projection mapping project by first and third year students of the Game Contents and Animation programme. Taking its cue from cartoons in which a character falls into a computer and finds a world made of ones and zeros, the piece turned the gallery into a cyber space that visitors walk into, with a few surprises along the way.
