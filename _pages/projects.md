@@ -45,7 +45,7 @@ nav_order: 3
 
 <div class="projects-compact">
 {% for p in media %}{% if p.compact %}
-  <div class="project-line"><span class="project-when">{{ p.period }}</span> <span class="project-line-title">{{ p.title }}</span>{% if p.partners %} · <span class="project-meta">{{ p.partners }}</span>{% endif %}</div>
+  <div class="project-line"><span class="project-when">{{ p.period }}</span><span class="project-line-body"><span class="project-line-title">{{ p.title }}</span>{% if p.partners %} · <span class="project-meta">{{ p.partners }}</span>{% endif %}</span></div>
 {% endif %}{% endfor %}
 </div>
 
@@ -55,7 +55,7 @@ nav_order: 3
 
 <div class="projects-compact">
 {% for p in screenings %}
-  <div class="project-line"><span class="project-when">{{ p.country }}</span> <span class="project-line-title">{{ p.title }}</span>{% if p.partners %} · <span class="project-meta">{{ p.partners }}</span>{% endif %}</div>
+  <div class="project-line"><span class="project-when">{{ p.country }}</span><span class="project-line-body"><span class="project-line-title">{{ p.title }}</span>{% if p.partners %} · <span class="project-meta">{{ p.partners }}</span>{% endif %}</span></div>
 {% endfor %}
 </div>
 
