@@ -17,7 +17,7 @@ latest_posts:
 ---
 
 <div class="agx-hero">
-  <img class="agx-mark" src="{{ '/assets/img/agx_pixel_happy.gif' | relative_url }}" width="64" height="64" alt="AGX Lab pixel mark" loading="eager">
+  <img class="agx-mark" src="{{ '/assets/img/agx_tile_lab.svg' | relative_url }}" width="56" height="56" alt="AGX Lab mark" loading="eager">
   <p>We seek to explore how emotion and cognition interact within games and interactive media. Grounded in affective game computing and cognitive science, our research aims to understand how affective signals and cognitive processes shape play, decision-making, and multimodal experience through experimental and creative approaches. Alongside empirical studies, the lab takes part in creative production in animation and games with industry and international partners.</p>
 </div>
 

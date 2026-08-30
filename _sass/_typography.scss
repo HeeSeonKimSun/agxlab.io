@@ -256,10 +256,10 @@ footer {
 }
 
 .agx-mark {
-  width: 64px;
-  height: 64px;
-  flex: 0 0 64px;
-  image-rendering: pixelated;
+  width: 56px;
+  height: 56px;
+  flex: 0 0 56px;
+  margin-top: 0.2rem;
   image-rendering: crisp-edges;
 }
 
@@ -356,6 +356,18 @@ footer {
   height: 28px;
   margin-right: 0.5rem;
   vertical-align: middle;
+}
+
+// Contact page: the pixel mascot sits beside the Join the Lab heading
+.agx-join {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.agx-join-mark {
+  width: 40px;
+  height: 40px;
   image-rendering: pixelated;
   image-rendering: crisp-edges;
 }

@@ -9,7 +9,7 @@ nav_order: 5
 
 <div class="lang-block">
 
-<h2>Join the Lab</h2>
+<h2 class="agx-join"><img class="agx-join-mark" src="{{ '/assets/img/agx_pixel_happy.gif' | relative_url }}" width="40" height="40" alt="">Join the Lab</h2>
 
 <p>AGX Lab welcomes students and researchers interested in emotion, cognition, games, and interactive media. We study affective game computing and embodied experience through both creative and empirical approaches. No prior research experience is required: you can start from the basics and build up through coursework, lab projects, and international collaborations.</p>
 
