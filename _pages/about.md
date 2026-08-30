@@ -50,6 +50,6 @@ See the [research]({{ '/research/' | relative_url }}) page for the full descript
 
 ## Join Our Lab
 
-AGX Lab welcomes students and researchers interested in emotion, cognition, games, and interactive media. We explore affective game computing and embodied experience through both creative and empirical approaches. No prior experience is required: you can grow from the basics through research and projects.
+AGX Lab welcomes students and researchers interested in emotion, cognition, games, animation, and interactive media. We explore affective game computing and embodied experience through both creative and empirical approaches. No prior experience is required: you can grow from the basics through research and projects.
 
 The [contact]({{ '/contact/' | relative_url }}) page explains who we are looking for, what scholarships and funding are available, and where to find us, in English, Korean, and Chinese. For applications or enquiries, write to [heeseonkim@cau.ac.kr](mailto:heeseonkim@cau.ac.kr).

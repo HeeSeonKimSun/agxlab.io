@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Research, industry, and international collaborations, and media works.
+description: Lab projects, industry and international collaborations, and media works.
 nav: true
 nav_order: 3
 ---
@@ -11,7 +11,7 @@ nav_order: 3
 {% assign research = items | where: "group", "research" %}
 {% assign media = items | where: "group", "media" %}
 
-## Research and Industry Collaborations
+## Projects and Collaborations
 
 <div class="projects-list">
 {% for p in research %}

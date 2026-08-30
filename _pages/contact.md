@@ -11,7 +11,7 @@ nav_order: 5
 
 <h2 class="agx-join"><img class="agx-join-mark" src="{{ '/assets/img/agx_pixel_happy.gif' | relative_url }}" width="40" height="40" alt="">Join the Lab</h2>
 
-<p>AGX Lab welcomes students and researchers interested in emotion, cognition, games, and interactive media. We study affective game computing and embodied experience through both creative and empirical approaches. No prior research experience is required: you can start from the basics and build up through coursework, lab projects, and international collaborations.</p>
+<p>AGX Lab welcomes students and researchers interested in emotion, cognition, games, animation, and interactive media. We study affective game computing and embodied experience through both creative and empirical approaches. No prior research experience is required: you can start from the basics and build up through coursework, lab projects, and international collaborations.</p>
 
 <ul>
   <li>Prospective master's and doctoral students in Applied Arts Engineering or Global Creative Art, Graduate School</li>
@@ -31,7 +31,7 @@ nav_order: 5
 
 <h2 class="agx-join"><img class="agx-join-mark" src="{{ '/assets/img/agx_pixel_happy.gif' | relative_url }}" width="40" height="40" alt="">연구실 지원 안내</h2>
 
-<p>AGX Lab은 정서, 인지, 게임, 인터랙티브 미디어에 관심 있는 학생과 연구자를 환영합니다. 정서 게임 컴퓨팅과 체화된 경험을 창작과 실증 연구 양쪽으로 다룹니다. 연구 경험이 없어도 괜찮습니다. 수업과 연구실 프로젝트, 국제 협업을 거치며 기초부터 쌓아갈 수 있습니다.</p>
+<p>AGX Lab은 정서, 인지, 게임, 애니메이션, 인터랙티브 미디어에 관심 있는 학생과 연구자를 환영합니다. 정서 게임 컴퓨팅과 체화된 경험을 창작과 실증 연구 양쪽으로 다룹니다. 연구 경험이 없어도 괜찮습니다. 수업과 연구실 프로젝트, 국제 협업을 거치며 기초부터 쌓아갈 수 있습니다.</p>
 
 <ul>
   <li>일반대학원 응용예술공학과, 글로벌크리에이티브아트학과 대학원 진학을 준비하는 분(석사, 박사)</li>
@@ -51,7 +51,7 @@ nav_order: 5
 
 <h2 class="agx-join"><img class="agx-join-mark" src="{{ '/assets/img/agx_pixel_happy.gif' | relative_url }}" width="40" height="40" alt="">加入实验室</h2>
 
-<p>AGX Lab 欢迎对情感、认知、游戏与交互媒体感兴趣的学生和研究者。我们以创作与实证两种方式研究情感游戏计算与具身体验。没有研究经验也没有关系，可以通过课程、实验室项目和国际合作从基础开始积累。</p>
+<p>AGX Lab 欢迎对情感、认知、游戏、动画与交互媒体感兴趣的学生和研究者。我们以创作与实证两种方式研究情感游戏计算与具身体验。没有研究经验也没有关系，可以通过课程、实验室项目和国际合作从基础开始积累。</p>
 
 <ul>
   <li>准备报考普通研究生院应用艺术工学系或全球创意艺术系的硕士、博士研究生</li>
