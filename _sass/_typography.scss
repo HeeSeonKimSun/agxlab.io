@@ -1,0 +1,241 @@
+/*******************************************************************************
+ * Typography styles: Headings, text, links, tables, blockquotes
+ ******************************************************************************/
+
+@use "variables" as v;
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+em,
+div,
+li,
+span,
+strong {
+  color: var(--global-text-color);
+}
+
+hr {
+  border-top: 1px solid var(--global-divider-color);
+}
+
+table:not(.table) {
+  td,
+  th {
+    font-size: 1rem;
+    padding: 0.45rem 1rem 0.45rem 0;
+    border-top: 1px solid var(--global-divider-color);
+  }
+
+  th {
+    font-weight: 600;
+  }
+}
+
+a,
+table.table a {
+  color: var(--global-theme-color);
+
+  &:hover {
+    color: var(--global-theme-color);
+    text-decoration: underline;
+  }
+
+  &:hover:after :not(.nav-item.dropdown) {
+    width: 100%;
+  }
+}
+
+.table-dark {
+  background-color: transparent;
+  &.table-bordered {
+    border: 1px solid var(--global-divider-color) !important;
+  }
+}
+
+blockquote {
+  background: var(--global-bg-color);
+  border-left: 5px solid var(--global-theme-color);
+  margin: 1.5em 0;
+  padding: 1em;
+  font-size: 1.2rem;
+
+  p {
+    margin-bottom: 0;
+  }
+
+  /* Tips, warnings, and dangers blockquotes */
+  &.block-tip {
+    border-color: var(--global-tip-block);
+    background-color: var(--global-tip-block-bg);
+
+    em,
+    li,
+    p,
+    strong {
+      color: var(--global-tip-block-text);
+    }
+
+    a,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: var(--global-tip-block-title);
+    }
+  }
+
+  &.block-warning {
+    border-color: var(--global-warning-block);
+    background-color: var(--global-warning-block-bg);
+
+    em,
+    li,
+    p,
+    strong {
+      color: var(--global-warning-block-text);
+    }
+
+    a,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: var(--global-warning-block-title);
+    }
+  }
+
+  &.block-danger {
+    border-color: var(--global-danger-block);
+    background-color: var(--global-danger-block-bg);
+
+    em,
+    li,
+    p,
+    strong {
+      color: var(--global-danger-block-text);
+    }
+
+    a,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: var(--global-danger-block-title);
+    }
+  }
+}
+
+/*******************************************************************************
+ * AGX Lab additions (appended to the al_folio_core typography partial)
+ ******************************************************************************/
+
+// Latin: Roboto (al-folio default). Korean: Noto Sans KR (loaded via google_fonts in _config.yml).
+body,
+.navbar,
+.post,
+.footer,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Roboto, "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+// Korean paragraphs that follow an English paragraph
+p.ko,
+.ko {
+  word-break: keep-all;
+}
+
+// Footer: keep it quiet on a white page
+footer {
+  border-top: 1px solid var(--global-divider-color);
+}
+
+// People page grid
+.members-group {
+  margin-top: 2.5rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.members-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 2rem 1.5rem;
+  margin: 1.5rem 0 1rem;
+}
+
+.member {
+  text-align: center;
+}
+
+.member-photo {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid var(--global-divider-color);
+  margin-bottom: 0.75rem;
+}
+
+.member-name {
+  font-weight: 500;
+  font-size: 1.05rem;
+}
+
+.member-role {
+  color: var(--global-theme-color);
+  font-size: 0.92rem;
+}
+
+.member-affil {
+  color: var(--global-text-color-light);
+  font-size: 0.85rem;
+  line-height: 1.35;
+  margin-top: 0.25rem;
+}
+
+.member-links {
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+}
+
+// Research page: 2-column image grid
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.research-grid img {
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--global-divider-color);
+}
+
+// Research areas list on the home page
+.area {
+  margin-bottom: 1.25rem;
+}
+
+.area-title {
+  font-weight: 500;
+  color: var(--global-theme-color);
+}
