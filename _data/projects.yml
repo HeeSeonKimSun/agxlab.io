@@ -51,12 +51,12 @@
   start: 2023-04-01
   period: 2023
   status: completed
-  kind: International
-  partners: Eight art schools, including KHM Cologne, Bauhaus-Universität Weimar, Central Academy of Fine Arts, National Institute of Design, Accademia di Belle Arti di Napoli, Estudio el Palmeral de Barcelona and Jagannath University
+  kind: International collaborative development project
+  partners: Academy of Media Arts Cologne, Bauhaus University Weimar, China Central Academy of Fine Arts, National Institute of Design India, Accademia di Belle Arti di Napoli, El Palmaral Barcelona, Chung-Ang University
   people: Hee Seon Kim
-  description: International collaborative animation development project on climate change, with a Chung-Ang University student team.
+  description: International collaborative development project across seven art schools, with a Chung-Ang University student team.
 
-# ---- Earlier works by the PI (before AGX Lab) ----
+# ---- Earlier works by the PI (wording from the previous agxlab.io research page) ----
 
 - title: "As We Here: solo exhibition"
   start: 2025-12-29
@@ -67,23 +67,23 @@
   people: Hee Seon Kim
   description: Solo exhibition of animation and media work.
 
-- title: "Constructed Feeling: How Animation and Games Shape the Architecture of Emotion"
+- title: "Invited Lecture: Affect and Emotion, Embodied Experience"
   start: 2025-11-29
   period: 2025
   status: completed
-  kind: Invited talk and screening
-  partners: Mooo 1.0 Students' Moving Image Festival, Anant National University, Ahmedabad, India
+  kind: Invited lecture
+  partners: Anant National University, India
   people: Hee Seon Kim
-  description: Invited talk and screening at the festival's first edition, with a curated screening of Chung-Ang University student films.
+  description: Lecture on embodied affect and emotional experience in interactive and creative media contexts, given at the Mooo 1.0 Students' Moving Image Festival.
 
-- title: "Having the Courage to Start a Revolution"
+- title: Invited Talk, Academy of Media Arts Cologne (KHM)
   start: 2025-01-21
   period: 2025
   status: completed
-  kind: Screening and talk
-  partners: Colloquium, Academy of Media Arts Cologne (KHM), Germany
+  kind: Invited talk
+  partners: Academy of Media Arts Cologne (KHM), Germany
   people: Hee Seon Kim
-  description: Screening and talk at the KHM Colloquium, presenting The River (2015) and On Origin (2025, work in progress).
+  description: Invited talk on affective animation, exploring embodied emotional experience in protest environments in Korea.
 
 - title: Solo exhibitions in London and Edinburgh
   start: 2023-01-28
@@ -94,92 +94,92 @@
   people: Hee Seon Kim
   description: Two solo exhibitions of animation and media work in the UK.
 
-- title: Invited screening and discussion, University of Westminster
+- title: Invited Screening and Discussion, University of Westminster
   start: 2023-02-02
   period: 2023
   status: completed
-  kind: Screening
-  partners: University of Westminster, London, UK
+  kind: Invited screening
+  partners: University of Westminster, UK
   people: Hee Seon Kim
-  description: Invited screening and discussion on affective animation and interactive storytelling.
+  description: Invited screening and discussion on affective animation and interactive storytelling, highlighting emotional design in digital narrative.
 
-- title: Google Arts & Culture × V&A Museum
+- title: Google Arts & Culture × V&A Museum, UK–KR
   start: 2022-08-16
   period: 2022–2023
   status: completed
-  kind: Collaborative work
+  kind: Project collaboration
   partners: Google Arts & Culture; Victoria and Albert Museum, UK
   people: Hee Seon Kim
-  description: Collaborative video composition project for exhibition; video technical supervisor.
+  description: A collaborative video composition project developed for real-time audience interaction, integrating live visual synthesis, motion-based cues, and participatory media performance within immersive exhibition environments.
 
-- title: Invitational exhibition, National Assembly of the Republic of Korea
+- title: Invited Exhibition, National Assembly of the Republic of Korea
   start: 2022-11-17
   period: 2022
   status: completed
   kind: Exhibition
-  partners: National Assembly Members' Office Building, Seoul
+  partners: Members' Hall, National Assembly of the Republic of Korea
   people: Hee Seon Kim
-  description: Invitational exhibition of animation and media work.
+  description: Invited exhibition presenting research-based interactive animation and media installation integrating spatial experience and collective emotion.
 
-- title: Invited screening, Chitrakatha International Festival
+- title: Invited Screening, Chitrakatha International Festival
   start: 2021-11-25
   period: 2021
   status: completed
-  kind: Screening
+  kind: Invited screening
   partners: National Institute of Design (NID), India
   people: Hee Seon Kim
-  description: Invited screening at NID's Chitrakatha festival.
+  description: Invited screening of an animated short exploring rhythm, perception, and affective response in visual storytelling.
 
-- title: Watangtangtongtang
+- title: Wadang-Tang Tung-Tung
   start: 2020-12-20
   period: 2020–2021
   status: completed
-  kind: Exhibition
+  kind: Installation
   partners: Buk Seoul Museum of Art, Seoul
   people: Hee Seon Kim
-  description: Animation for the exhibition Watangtangtongtang; art director.
+  description: Interactive sound- and motion-based installation exploring collective words from artists with spatial experience in animation.
 
-- title: Ultrashorts
+- title: Ultrashorts Project
   start: 2020-09-22
   period: 2020
   status: completed
-  kind: Collaborative work
-  partners: Samsung R&D Institute India
+  kind: Project collaboration
+  partners: Samsung R&D Bangalore × National Institute of Design, India
   people: Hee Seon Kim
-  description: Ultra-short-form media project presented in an online screening.
+  description: The affective and cognitive dimensions of ultra-short-form media, focusing on rhythm, perception, and emotional response in short interactive content.
 
-- title: Seasons of Jochang
+- title: Four Seasons, Media Facade Project
   start: 2019-06-01
   period: 2019
   status: completed
   kind: Media facade
-  partners: Korea Creative Content Agency (KOCCA)
+  partners: Korea Creative Content Agency & Gimpo Foundation for Arts and Culture
   people: Hee Seon Kim
-  description: Public media facade project transforming environmental data into emotional color mapping and architectural projection.
+  description: An interactive public media work transforming environmental data into emotional color mapping and dynamic architectural projection.
 
 - title: Retrospect Future
   start: 2017-09-01
   period: 2017
   status: completed
-  kind: Collaborative work
-  partners: Seoul Biennale of Architecture and Urbanism
+  kind: Collaborative exhibition
+  partners: Seoul Biennale of Architecture & Urbanism × Yonsei University
   people: Hee Seon Kim
-  description: Collaborative exhibition project on memory and urban cognition through spatial storytelling.
+  description: Collaborative exhibition examining memory and urban cognition through spatial storytelling and immersive visualization.
 
-- title: Interaction Orchestra with Media Facade
+- title: Butterfly Lover, Interactive Orchestra Project
   start: 2015-06-01
   period: 2015
   status: completed
-  kind: Performance
-  partners: Royal College of Music, London, UK
+  kind: Performance research
+  partners: Royal College of Music, UK
   people: Hee Seon Kim
-  description: Cross-modal performance combining live orchestra, animation, and media facade projection.
+  description: A cross-modal performance research project integrating emotional sonification, visual animation, and participatory audience interaction.
 
-- title: "The River: Best Indie Animation of 2015"
+- title: Best Indie Animation, British Film Institute (BFI)
   start: 2015-01-01
   period: 2015
   status: completed
   kind: Recognition
-  partners: Sight and Sound, British Film Institute (BFI), UK
+  partners: British Film Institute (BFI), UK
   people: Hee Seon Kim
-  description: The River (2015) was selected as Best Indie Animation of 2015 by Sight and Sound and screened at the BFI.
+  description: Selected as Best Indie Animation and archived in the BFI National Archive collection for its experimental affective animation research output.
