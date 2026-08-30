@@ -1,6 +1,7 @@
 {% comment %} AGX Lab local override of al_folio_core/_includes/footer.liquid: single-line lab copyright. {% endcomment %}
 {% capture footer_contents %}
   &copy; {{ site.time | date: '%Y' }} AGX Lab. {{ site.footer_text }}
+  <a href="{{ '/privacy/' | relative_url }}" class="footer-link">개인정보처리방침 · Privacy</a>
   {% if site.last_updated %}
     Last updated: {{ 'now' | date: '%B %d, %Y' }}.
   {% endif %}

@@ -23,7 +23,7 @@ nav_order: 5
 
 <p>Graduate applicants can apply for university and national scholarships, and for research assistantships on funded projects. What can be applied for depends on the programme and the admission cycle, so please write before you apply and we will go through the current options together.</p>
 
-<p>For scholarship and funding enquiries, write to <a href="mailto:heeseonkim@cau.ac.kr">heeseonkim@cau.ac.kr</a>.</p>
+<p>For scholarship and funding enquiries, write to {{ "heeseonkim@cau.ac.kr" | encode_email }}.</p>
 
 </div>
 
@@ -43,7 +43,7 @@ nav_order: 5
 
 <p>대학원 지원자는 교내 장학금과 국가 장학금, 연구 과제 참여 연구원 지원에 지원할 수 있습니다. 지원 가능한 범위는 과정과 모집 시기에 따라 달라지므로, 지원 전에 메일을 주시면 현재 가능한 선택지를 함께 살펴보겠습니다.</p>
 
-<p>장학금과 연구비 문의는 <a href="mailto:heeseonkim@cau.ac.kr">heeseonkim@cau.ac.kr</a>로 보내 주세요.</p>
+<p>장학금과 연구비 문의는 {{ "heeseonkim@cau.ac.kr" | encode_email }}로 보내 주세요.</p>
 
 </div>
 
@@ -63,7 +63,7 @@ nav_order: 5
 
 <p>研究生申请者可以申请校内奖学金、国家奖学金，以及参与研究项目的助研津贴。可申请的范围因专业和招生批次而异，请在申请前来信，我们一起确认目前可行的方案。</p>
 
-<p>奖学金与经费咨询请发送至 <a href="mailto:heeseonkim@cau.ac.kr">heeseonkim@cau.ac.kr</a>。</p>
+<p>奖学金与经费咨询请发送至 {{ "heeseonkim@cau.ac.kr" | encode_email }}。</p>
 
 </div>
 
@@ -71,7 +71,7 @@ nav_order: 5
 
 <div class="contact-details">
   <p><strong>Hee Seon Kim</strong>, Principal Investigator<br>
-  <a href="mailto:heeseonkim@cau.ac.kr">heeseonkim@cau.ac.kr</a></p>
+  {{ "heeseonkim@cau.ac.kr" | encode_email }}</p>
 
   <p><strong>AGX Lab</strong><br>
   Room 304, Building 802 (Faculty Research Building)<br>
