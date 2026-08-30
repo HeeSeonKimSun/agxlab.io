@@ -14,6 +14,7 @@
 
 - 팔레트: 흰 배경 / 검정(#111111) 본문 / 파랑(#004de5) 하나. 보조 텍스트만 회색. 다크 모드 끔(`enable_darkmode: false`). 새 색을 추가하지 말 것.
 - **영문 전용.** 사이트 본문·데이터·bib에 한국어를 넣지 않는다(교수님 지시, 2026-08-30).
+  단 하나의 예외: 홈 부제 맨 앞의 "정서 게임 경험 연구실"(교수님 요청, 같은 날). 이 한 줄은 지우지 말 것.
 - PI의 이전 작업(2015~2025 전시·상영·협업)은 교수님 결정(8/30)으로 `_data/projects.yml` 하단 블록에 함께 둔다(페이지 설명에 "Entries before 2023 are earlier works by the PI" 명시). `/pi/` 페이지는 삭제.
 - 진행 중인 건(넥센·서울대 협업 등)은 한 문장 수준으로만 쓰고 예산·상대 이름·저널명을 적지 않는다. 과장 금지. **넥센은 내용 비공개**: 교수님이 준 한 문장("NEXEN, Future Concept Mobility Collaboration, next-generation mobility systems encompassing autonomous robotics, user-inclusive vehicles, and a cross-domain mobility ecosystem") 외에 산출물·주관 부서·일정·예산을 적지 않는다.
 - research 페이지는 `papers.bib` 하나로 생성한다: 진행 중 항목(@misc, `abbr = {Ongoing}`/`{Submitted}`)과 논문을 섞어 `year` 내림차순 + `sortkey` 오름차순.
