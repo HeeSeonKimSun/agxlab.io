@@ -217,3 +217,23 @@
   kind: Animated short
   people: Hee Seon Kim
   description: An animated short selected and screened at festivals in fifteen countries, with jury awards in Austria, India, and Korea. Sight and Sound (British Film Institute) selected it as Best Indie Animation of 2015, and it entered the BFI animation film collection.
+
+- title: Unlimited Space
+  start: 2026-04-20
+  group: research
+  period: 2026–present
+  status: ongoing
+  kind: Media wall video production
+  partners: NEXEN Design Gallery, THE NEXEN univerCITY
+  people: Jeong Min Won, Yeojin Yun, Yeonjae Kim
+  description: Video production for the media wall at the NEXEN Tire headquarters, presented in the NEXEN Design Gallery exhibition Unlimited Space at THE NEXEN univerCITY.
+
+- title: Game Media Contents Special Lecture
+  start: 2026-07-01
+  group: research
+  period: 2026
+  status: completed
+  kind: Special lecture
+  partners: 3D Design Lab, Chung-Ang University
+  people: Jeong Min Won
+  description: A special lecture series on Unreal Engine 5, Blender, and ComfyUI, hosted by the 3D Design Lab. Jeong Min Won of AGX Lab taught the Blender sessions.
