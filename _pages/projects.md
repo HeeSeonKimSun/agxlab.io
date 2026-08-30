@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Creative, industry, and international collaborations, newest first. Entries before 2023 are earlier works by the PI.
+description: Creative, industry, and international collaborations, newest first. Exhibitions, screenings, and talks credited to Hee Seon Kim alone are the PI’s own works.
 nav: true
 nav_order: 3
 ---
