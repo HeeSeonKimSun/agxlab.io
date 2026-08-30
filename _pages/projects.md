@@ -51,7 +51,7 @@ nav_order: 3
 {% endif %}{% endfor %}
 </div>
 
-## Awards and Screenings
+## Awards and Selections
 
 <p class="section-note">Festival awards, competition selections, and invited screenings, 2015–2021.</p>
 
