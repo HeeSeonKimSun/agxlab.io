@@ -240,9 +240,11 @@ footer {
   color: var(--global-theme-color);
 }
 
-// Home page profile block: plain font instead of al-folio's monospace address
-.profile .more-info {
+// Home page profile block: plain font instead of al-folio's monospace address.
+// `article` raises specificity above the gem's `.profile .more-info` rule in _components.scss.
+article .profile .more-info {
   font-family: Roboto, "Noto Sans KR", sans-serif;
+  font-size: 0.9rem;
   color: var(--global-text-color-light);
 
   p {
