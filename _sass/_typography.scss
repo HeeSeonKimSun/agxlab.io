@@ -219,7 +219,7 @@ footer {
 // Research page: 2-column image grid
 .research-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
   gap: 1rem;
   margin: 1rem 0 1.5rem;
 }
@@ -238,4 +238,16 @@ footer {
 .area-title {
   font-weight: 500;
   color: var(--global-theme-color);
+}
+
+// Home page profile block: plain font instead of al-folio's monospace address
+.profile .more-info {
+  font-family: Roboto, "Noto Sans KR", sans-serif;
+  color: var(--global-text-color-light);
+
+  p {
+    display: block;
+    margin: 0;
+    color: var(--global-text-color-light);
+  }
 }
