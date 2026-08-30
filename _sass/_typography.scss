@@ -140,7 +140,7 @@ blockquote {
  * AGX Lab additions (appended to the al_folio_core typography partial)
  ******************************************************************************/
 
-// Latin: Roboto (al-folio default). Noto Sans KR is loaded as a fallback for any CJK glyphs.
+// IBM Plex Sans for Latin, IBM Plex Sans KR for Hangul.
 body,
 .navbar,
 .post,
@@ -151,7 +151,20 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Roboto, "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: "IBM Plex Sans", "IBM Plex Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+// Page title: solid, tight, not the default light weight
+.post-title,
+.post .post-title {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+// Wordmark in the navigation bar
+.navbar-brand.agx-brand {
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
 
 // Footer: keep it quiet on a white page
