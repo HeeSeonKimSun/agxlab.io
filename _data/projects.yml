@@ -166,7 +166,6 @@
   partners: Seoul Biennale of Architecture & Urbanism × Yonsei University
   people: Hee Seon Kim
   description: Collaborative exhibition examining memory and urban cognition through spatial storytelling and immersive visualization.
-  image: retrospect_future.jpg
 
 - title: Butterfly Lover
   start: 2015-06-01
@@ -212,134 +211,12 @@
 
 # ---- Awards and screenings, 2015-2021 (one line per record, ordered by country) ----
 
-- title: Jury Special Award
-  country: Austria
-  partners: Vienna
-  group: screenings
-  start: 2015-06-01
-
-- title: Invited screening
-  country: Belgium
-  partners: Brussels
-  group: screenings
-  start: 2016-06-01
-
-- title: Competition selection
-  country: Croatia
-  partners: Zagreb
-  group: screenings
-  start: 2015-06-01
-
-- title: Festival screening
-  country: France
-  partners: Lille
-  group: screenings
-  start: 2016-06-01
-
-- title: Competition selection
-  country: Germany
-  partners: Berlin
-  group: screenings
-  start: 2017-06-01
-
-- title: Festival screening
-  country: Germany
-  partners: Berlin
-  group: screenings
-  start: 2017-06-02
-
-- title: Grand Prize
-  country: India
-  partners: National Institute of Design
-  group: screenings
-  start: 2015-06-01
-
-- title: Festival screening
-  country: India
-  partners: New Delhi
-  group: screenings
-  start: 2016-06-01
-
-- title: Invited screening
-  country: Japan
-  partners: Hiroshima
-  group: screenings
-  start: 2016-06-01
-
-- title: Special Jury Award
-  country: Korea
-  partners: Indie-AniFest
-  group: screenings
-  start: 2017-06-01
-
-- title: Invited screening
-  country: Korea
-  partners: Daegu
-  group: screenings
-  start: 2017-06-02
-
-- title: Invited screening
-  country: Netherlands
-  partners: Amsterdam
-  group: screenings
-  start: 2016-06-01
-
-- title: Invited screening
-  country: Poland
-  partners: Warsaw
-  group: screenings
-  start: 2017-06-01
-
-- title: Competition selection
-  country: Russia
-  partners: Moscow
-  group: screenings
-  start: 2016-06-01
-
-- title: Invited screening
-  country: Russia
-  partners: Moscow
-  group: screenings
-  start: 2017-06-01
-
-- title: Invited screening
-  country: Switzerland
-  partners: Geneva
-  group: screenings
-  start: 2017-06-01
-
-- title: Best Indie Animation of 2015
-  country: United Kingdom
-  partners: Sight and Sound, British Film Institute (BFI), London
-  group: screenings
+- title: The River
   start: 2015-01-01
-
-- title: Selected for the animation film donor collection
-  country: United Kingdom
-  partners: British Film Institute (BFI), London
-  group: screenings
-  start: 2015-01-02
-
-- title: Phil Davis Elf Factory Scholarship
-  country: United Kingdom
-  partners: Royal College of Art, London
-  group: screenings
-  start: 2015-01-04
-
-- title: Shorts Secondary Series selection
-  country: United Kingdom
-  partners: British Council, London
-  group: screenings
-  start: 2017-06-01
-
-- title: Competition selection
-  country: United Kingdom
-  partners: Bristol
-  group: screenings
-  start: 2016-06-01
-
-- title: Selected for screening
-  country: United States
-  partners: Shorts of the Week
-  group: screenings
-  start: 2021-06-01
+  group: media
+  period: 2015
+  status: completed
+  kind: Animated short
+  partners: Festivals in 15 countries
+  people: Hee Seon Kim
+  description: An animated short screened and awarded at festivals in fifteen countries. Selected as Best Indie Animation of 2015 by Sight and Sound, British Film Institute, and taken into the BFI animation film collection; Grand Prize at the Chitrakatha International Festival, National Institute of Design, India; Jury Special Award at Tricky Women, Austria; and Special Jury Award at Indie-AniFest, Korea.
