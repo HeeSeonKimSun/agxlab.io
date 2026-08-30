@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Affective Game Experience Lab</b> · College of Arts, Chung-Ang University
+subtitle: <b>Affective Game Experience Lab</b> · Chung-Ang University
 
 selected_papers: false # rendered in the body below so that section order can be controlled
 social: true # includes social icons at the bottom of the page
@@ -24,18 +24,18 @@ latest_posts:
 ## research areas
 
 <div class="area">
-  <div class="area-title">Affective Game Computing and Feedback Loops</div>
-  <p>Computational modeling of player affect and its integration into game systems: affective feedback loops that sense emotional and cognitive states from behavioral logs and physiological signals and feed them back into gameplay, studied through controlled experiments, behavioral modeling, and systematic analysis of the field.</p>
+  <div class="area-title">Affective–Cognitive Interaction in Games</div>
+  <p>Exploring how emotion and cognition interact to shape play, perception, and decision-making in interactive game environments through affective loops and behavioral modeling. Grounded in affective game computing, we model player affect computationally and design affective feedback loops that sense emotional and cognitive states from behavioral logs and physiological signals and feed them back into gameplay.</p>
 </div>
 
 <div class="area">
   <div class="area-title">Embodied Interaction and Multimodal Player Analytics</div>
-  <p>Measuring embodied and predictive processes in play from multimodal data, such as player choices, reaction time, interaction patterns, and physiological signals, together with the telemetry and analysis pipelines needed to capture and interpret them.</p>
+  <p>Investigating embodied and predictive processes in gameplay using multimodal behavioral data, such as player choices, reaction time, interaction patterns, and physiological signals, together with the telemetry and analysis pipelines needed to capture and interpret them.</p>
 </div>
 
 <div class="area">
-  <div class="area-title">Affective Experience and Media Interaction</div>
-  <p>How emotional experience is formed and communicated through narrative, animation, and interactive media, combining creative production with empirical evaluation to understand how affect shapes perception and meaning in digital environments.</p>
+  <div class="area-title">Affective Experience through Animation and Interactive Media</div>
+  <p>Exploring how emotional experience is formed and communicated through narrative, animation, and interactive media, to understand how affect shapes perception and meaning in digital environments. Animation and interaction design are also how we work: creative production runs alongside experiments, so prototypes, films, and games serve as both research instruments and outcomes.</p>
 </div>
 
 See the [research]({{ '/research/' | relative_url }}) page for key research outputs and the [projects]({{ '/projects/' | relative_url }}) page for collaborations.
@@ -52,4 +52,4 @@ See the [research]({{ '/research/' | relative_url }}) page for key research outp
 
 AGX Lab welcomes students and researchers interested in emotion, cognition, and interactive media. We explore affective game computing and embodied experience through both creative and empirical approaches. No prior experience is required: you can grow from the basics through research and projects.
 
-AGX Lab, College of Arts, Chung-Ang University (Da Vinci Campus, Anseong, Korea). For applications or inquiries, please contact [heeseonkim@cau.ac.kr](mailto:heeseonkim@cau.ac.kr).
+AGX Lab, Chung-Ang University (Da Vinci Campus, Anseong, Korea). For applications or inquiries, please contact [heeseonkim@cau.ac.kr](mailto:heeseonkim@cau.ac.kr).
