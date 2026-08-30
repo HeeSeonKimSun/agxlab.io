@@ -179,17 +179,6 @@
   people: Hee Seon Kim
   description: A cross-modal performance research project integrating emotional sonification, visual animation, and participatory audience interaction.
 
-- title: Best Indie Animation
-  start: 2015-01-01
-  group: media
-  compact: true
-  period: 2015
-  status: completed
-  kind: Recognition
-  partners: Sight and Sound, British Film Institute (BFI), UK
-  people: Hee Seon Kim
-  description: Selected as Best Indie Animation and archived in the BFI National Archive collection for its experimental affective animation research output.
-
 - title: Evaluator
   start: 2023-01-01
   group: media
@@ -221,24 +210,142 @@
   people: Hee Seon Kim
   description: Final jury member for the Chitrakatha International Film Festival.
 
-- title: "The River: international festival selections"
-  start: 2016-01-01
-  group: media
-  compact: true
-  period: 2015–2017
-  status: completed
-  kind: Recognition
-  partners: Tricky Women (Austria), Zagreb (Croatia), Hiroshima (Japan), Anima Brussels (Belgium), KROK (Russia), Interfilm Berlin (Germany), GIFF Black Box (Switzerland)
-  people: Hee Seon Kim
-  description: Jury Special Award at Tricky Women International Animation Festival, finalist at Zagreb and Interfilm Berlin, and screenings at Hiroshima, Anima Brussels, KROK, and the Geneva International Film Festival.
+# ---- Awards and screenings, 2015-2021 (one line per record, ordered by country) ----
+
+- title: Jury Special Award
+  country: Austria
+  partners: Vienna
+  group: screenings
+  start: 2015-06-01
+
+- title: Invited screening
+  country: Belgium
+  partners: Brussels
+  group: screenings
+  start: 2016-06-01
+
+- title: Competition selection
+  country: Croatia
+  partners: Zagreb
+  group: screenings
+  start: 2015-06-01
+
+- title: Festival screening
+  country: France
+  partners: Lille
+  group: screenings
+  start: 2016-06-01
+
+- title: Competition selection
+  country: Germany
+  partners: Berlin
+  group: screenings
+  start: 2017-06-01
+
+- title: Festival screening
+  country: Germany
+  partners: Berlin
+  group: screenings
+  start: 2017-06-02
 
 - title: Grand Prize
-  start: 2015-11-01
-  group: media
-  compact: true
-  period: 2015
-  status: completed
-  kind: Recognition
-  partners: National Institute of Design (NID), India
-  people: Hee Seon Kim
-  description: Grand Prize for an animated short.
+  country: India
+  partners: National Institute of Design
+  group: screenings
+  start: 2015-06-01
+
+- title: Festival screening
+  country: India
+  partners: New Delhi
+  group: screenings
+  start: 2016-06-01
+
+- title: Invited screening
+  country: Japan
+  partners: Hiroshima
+  group: screenings
+  start: 2016-06-01
+
+- title: Special Jury Award
+  country: Korea
+  partners: Indie-AniFest
+  group: screenings
+  start: 2017-06-01
+
+- title: Invited screening
+  country: Korea
+  partners: Daegu
+  group: screenings
+  start: 2017-06-02
+
+- title: Invited screening
+  country: Netherlands
+  partners: Amsterdam
+  group: screenings
+  start: 2016-06-01
+
+- title: Invited screening
+  country: Poland
+  partners: Warsaw
+  group: screenings
+  start: 2017-06-01
+
+- title: Competition selection
+  country: Russia
+  partners: Moscow
+  group: screenings
+  start: 2016-06-01
+
+- title: Invited screening
+  country: Russia
+  partners: Moscow
+  group: screenings
+  start: 2017-06-01
+
+- title: Invited screening
+  country: Switzerland
+  partners: Geneva
+  group: screenings
+  start: 2017-06-01
+
+- title: Best Indie Animation of 2015
+  country: United Kingdom
+  partners: Sight and Sound, British Film Institute (BFI), London
+  group: screenings
+  start: 2015-01-01
+
+- title: Selected for the animation film donor collection
+  country: United Kingdom
+  partners: British Film Institute (BFI), London
+  group: screenings
+  start: 2015-01-02
+
+- title: Graduated with Distinction
+  country: United Kingdom
+  partners: Royal College of Art, London
+  group: screenings
+  start: 2015-01-03
+
+- title: Phil Davis Elf Factory Scholarship
+  country: United Kingdom
+  partners: Royal College of Art, London
+  group: screenings
+  start: 2015-01-04
+
+- title: Shorts Secondary Series selection
+  country: United Kingdom
+  partners: British Council, London
+  group: screenings
+  start: 2017-06-01
+
+- title: Competition selection
+  country: United Kingdom
+  partners: Bristol
+  group: screenings
+  start: 2016-06-01
+
+- title: Selected for screening
+  country: United States
+  partners: Shorts of the Week
+  group: screenings
+  start: 2021-06-01

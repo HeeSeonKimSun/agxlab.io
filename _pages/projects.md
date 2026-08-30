@@ -10,6 +10,7 @@ nav_order: 3
 {% assign items = site.data.projects | where_exp: "p", "p.draft != true" | sort: "start" | reverse %}
 {% assign research = items | where: "group", "research" %}
 {% assign media = items | where: "group", "media" %}
+{% assign screenings = items | where: "group", "screenings" | sort: "country" %}
 
 ## Research and Industry Collaborations
 
@@ -46,6 +47,16 @@ nav_order: 3
 {% for p in media %}{% if p.compact %}
   <div class="project-line"><span class="project-when">{{ p.period }}</span> <span class="project-line-title">{{ p.title }}</span>{% if p.partners %} · <span class="project-meta">{{ p.partners }}</span>{% endif %}</div>
 {% endif %}{% endfor %}
+</div>
+
+## Awards and Screenings
+
+<p class="section-note">Festival awards, competition selections, and invited screenings, 2015–2021.</p>
+
+<div class="projects-compact">
+{% for p in screenings %}
+  <div class="project-line"><span class="project-when">{{ p.country }}</span> <span class="project-line-title">{{ p.title }}</span>{% if p.partners %} · <span class="project-meta">{{ p.partners }}</span>{% endif %}</div>
+{% endfor %}
 </div>
 
 ## International Partnerships
