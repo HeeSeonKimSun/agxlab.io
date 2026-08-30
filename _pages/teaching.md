@@ -17,6 +17,30 @@ nav_order: 4
     </div>
   </div>
   <div class="project">
+    <div class="project-when">Graduate</div>
+    <div class="project-body">
+      <div class="project-title">Visual Technical Production</div>
+      <div class="project-meta">Applied Arts Engineering, Graduate School</div>
+      <p class="project-desc">Technical production for visual work: building and running a production pipeline, from asset creation and rigging to rendering and delivery.</p>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-when">Graduate</div>
+    <div class="project-body">
+      <div class="project-title">3D Contents</div>
+      <div class="project-meta">Applied Arts Engineering, Graduate School</div>
+      <p class="project-desc">Design and production of 3D content, covering modeling, animation, and real-time engines as tools for both creative work and experimental stimuli.</p>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-when">Graduate</div>
+    <div class="project-body">
+      <div class="project-title">Project Research</div>
+      <div class="project-meta">Applied Arts Engineering, Graduate School</div>
+      <p class="project-desc">Individual research supervision: framing a research question, designing a study or a production plan, and carrying it through to a written or exhibited outcome.</p>
+    </div>
+  </div>
+  <div class="project">
     <div class="project-when">Undergraduate</div>
     <div class="project-body">
       <div class="project-title">Affective Game Computing</div>
