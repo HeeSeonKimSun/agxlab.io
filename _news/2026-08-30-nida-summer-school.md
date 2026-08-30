@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Upcoming: Hee Seon Kim takes part in the Erasmus+ Re-Animation 2026 summer school at Nida Art Colony, Lithuania (September 12–22), hosted by Vilnius Academy of Arts, and presents Chung-Ang University's game and animation programme.
+Upcoming: Professor Hee Seon Kim takes part in the Erasmus+ Re-Animation 2026 summer school in Europe (Nida Art Colony, Lithuania, September 12–22) and gives a presentation there.

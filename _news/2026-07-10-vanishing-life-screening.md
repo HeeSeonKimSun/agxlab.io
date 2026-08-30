@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-VANISHING LIFE 2026, the KHM-led collaborative animation seminar of seven art schools, concluded with its final screening. The Chung-Ang University team was led by Hee Seon Kim.
+VANISHING LIFE 2026, the KHM-led collaborative animation seminar of seven art schools, concluded with its final screening. The Chung-Ang University team was led by Professor Hee Seon Kim.

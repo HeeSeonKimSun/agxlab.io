@@ -337,7 +337,7 @@ display_categories: [] # categories displayed on the front page of the blog (blo
 
 scholar:
   last_name: [Kim, Won]
-  first_name: [Hee Seon, Heeseon, Hee-Seon, H. S., H., Jeong Min, Jeongmin, J. M.]
+  first_name: [Hee Seon, Heeseon, Hee-Seon, H. S., H., Jeong Min, Jeongmin, Jeong-Min, J. M.]
 
   style: apa
   locale: en
