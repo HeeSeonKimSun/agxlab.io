@@ -1,0 +1,57 @@
+# AGX Lab projects and activities. The projects page sorts by `start` (newest first).
+# Fields: title · start (YYYY-MM-DD, sort key) · period (display text) · status (ongoing | upcoming | completed)
+#         kind · partners · people (lab members involved) · description · url (optional) · draft: true (hides the entry)
+
+- title: Erasmus+ Re-Animation 2026 Summer School, Nida Art Colony
+  start: 2026-09-12
+  period: Sept 12–22, 2026
+  status: upcoming
+  kind: International
+  partners: Vilnius Academy of Arts (host), Erasmus+ Blended Intensive Programme
+  people: Hee Seon Kim
+  description: International animation summer school at Nida Art Colony, Lithuania. The PI takes part as faculty and presents Chung-Ang University's game and animation programme.
+
+- title: "GIGDC 2026: Backpack"
+  start: 2026-08-12
+  period: 2026
+  status: ongoing
+  kind: Student competition
+  partners: Global Indie Game Development Contest (GIGDC), Korea Creative Content Agency
+  people: Chae Rin Kim
+  description: Backpack, a game by an undergraduate team including Chae Rin Kim, passed the first round of the university division and advanced to the second round of judging.
+
+- title: VANISHING LIFE 2026
+  start: 2026-04-17
+  period: Apr 17 – Jul 10, 2026
+  status: completed
+  kind: International
+  partners: Academy of Media Arts Cologne (KHM) and six partner art schools
+  people: Hee Seon Kim
+  description: KHM-led international collaborative animation seminar in which teams from seven art schools each produced a chapter of one film. The Chung-Ang University team was led by Hee Seon Kim.
+
+- title: NEXEN Tire, Future Concept Mobility
+  start: 2026-04-01
+  period: Apr – Nov 2026
+  status: ongoing
+  kind: University–industry collaboration
+  partners: NEXEN Tire
+  people: Hee Seon Kim, Jeong Min Won, Chae Rin Kim
+  description: The PI supervises the animation and video team of a university–industry project with NEXEN Tire, led by the Department of Industrial Design. The team's concept films are planned for Seoul Design Week 2026.
+
+- title: Martian Chronicles
+  start: 2024-04-12
+  period: Apr 12 – Jul 5, 2024
+  status: completed
+  kind: International
+  partners: Academy of Media Arts Cologne (KHM), National Institute of Design (India), Central Academy of Fine Arts (China), Jagannath University (Bangladesh)
+  people: Hee Seon Kim, Chae Rin Kim
+  description: International exchange animation project developed by student teams from five schools. The Chung-Ang University team included Chae Rin Kim.
+
+- title: "DE RERUM NATURA: A Climate Change"
+  start: 2023-04-01
+  period: Apr – Jul 2023
+  status: completed
+  kind: International
+  partners: Eight art schools, including KHM Cologne, Bauhaus-Universität Weimar, Central Academy of Fine Arts, National Institute of Design, Accademia di Belle Arti di Napoli, Estudio el Palmeral de Barcelona and Jagannath University
+  people: Hee Seon Kim
+  description: International collaborative animation development project on climate change, with a Chung-Ang University student team.

@@ -1,38 +1,51 @@
-# Lab members. Add a new person by copying a block. Photos live in assets/img/members/ (square, ~480px).
+# Lab members. Add a new person by copying a block. Photos live in assets/img/members/ (square, ~480px JPG).
+# If there is no photo yet, leave out the `image` line and the page shows initials instead.
 # group must be one of: Faculty | Graduate Students | Undergraduate Research Assistants | Alumni
+# Optional: url (a page to link to) and url_label (link text)
 - name: Hee Seon Kim
   group: Faculty
   role: Principal Investigator
-  affiliation: Associate Professor · Head, Department of Game Contents & Animation, College of Arts · Department of Applied Arts Engineering, Chung-Ang University
+  affiliation: Associate Professor and Head, Department of Game Contents and Animation, College of Arts, Chung-Ang University
   image: heeseonkim.jpg
   email: heeseonkim@cau.ac.kr
+  url: /pi/
+  url_label: Selected works
 
 - name: Jeong Min Won
   group: Graduate Students
   role: Master's Student
-  affiliation: Department of Applied Arts Engineering (Graduate School), Chung-Ang University
+  affiliation: Department of Applied Arts Engineering, Graduate School, Chung-Ang University
   image: jeongmin_won.jpg
+
+- name: Sunmi Choi
+  group: Graduate Students
+  role: Master's Student
+  affiliation: Global Creative Art, Graduate School, Chung-Ang University
+
+- name: Qiyuan Liu
+  group: Graduate Students
+  role: Master's Student
+  affiliation: Graduate School, Chung-Ang University
 
 - name: Chae Rin Kim
   group: Undergraduate Research Assistants
   role: Undergraduate Research Assistant
-  affiliation: Department of Game Contents & Animation, Chung-Ang University
+  affiliation: Department of Game Contents and Animation, Chung-Ang University
   image: chaerin_kim.jpg
 
 - name: Xuanyu Liu
   group: Undergraduate Research Assistants
   role: Undergraduate Research Assistant
-  affiliation: Department of Game Contents & Animation, Chung-Ang University
+  affiliation: Department of Game Contents and Animation, Chung-Ang University
   image: xuanyu_liu.jpg
-
-- name: Maksim Tsoy
-  group: Undergraduate Research Assistants
-  role: Undergraduate Research Assistant
-  affiliation: Department of Game Contents & Animation, Chung-Ang University
-  image: maksim_tsoy.jpg
 
 - name: Svitlana Chen
   group: Undergraduate Research Assistants
   role: Undergraduate Research Assistant
-  affiliation: Department of Game Contents & Animation, Chung-Ang University
+  affiliation: Department of Game Contents and Animation, Chung-Ang University
   image: svitlana_chen.jpg
+
+- name: Weijie Lu
+  group: Undergraduate Research Assistants
+  role: Undergraduate Research Assistant
+  affiliation: Department of Game Contents and Animation, Chung-Ang University
