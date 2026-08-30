@@ -52,4 +52,4 @@ See the [research]({{ '/research/' | relative_url }}) page for the full descript
 
 AGX Lab welcomes students and researchers interested in emotion, cognition, and interactive media. We explore affective game computing and embodied experience through both creative and empirical approaches. No prior experience is required: you can grow from the basics through research and projects.
 
-AGX Lab is in Room 304, Building 802 (Faculty Research Building), Da Vinci Campus, Chung-Ang University, Anseong, Korea. For applications or inquiries, please contact [heeseonkim@cau.ac.kr](mailto:heeseonkim@cau.ac.kr).
+The [contact]({{ '/contact/' | relative_url }}) page explains who we are looking for, what scholarships and funding are available, and where to find us, in English, Korean, and Chinese. For applications or enquiries, write to [heeseonkim@cau.ac.kr](mailto:heeseonkim@cau.ac.kr).
