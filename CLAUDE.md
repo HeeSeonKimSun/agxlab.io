@@ -1,6 +1,6 @@
 # CLAUDE.md — AGX Lab website
 
-이 리포는 al-folio v1.x 스타터로 만든 **연구실 사이트**(agxlab.io)입니다. 런타임(레이아웃·SCSS·플러그인)은 gem(`al_folio_core` 등)에 있고, 이 리포에는 내용과 설정, 그리고 몇 개의 로컬 오버라이드만 있습니다.
+이 리포는 al-folio v1.x 스타터로 만든 **연구실 사이트**(https://agxlab.cau.ac.kr)입니다. 런타임(레이아웃·SCSS·플러그인)은 gem(`al_folio_core` 등)에 있고, 이 리포에는 내용과 설정, 그리고 몇 개의 로컬 오버라이드만 있습니다.
 
 ## 어디를 고치나
 
@@ -19,7 +19,9 @@
 - 진행 중인 건(넥센·서울대 협업 등)은 한 문장 수준으로만 쓰고 예산·상대 이름·저널명을 적지 않는다. 과장 금지. **넥센은 내용 비공개**: 교수님이 준 한 문장("NEXEN, Future Concept Mobility Collaboration, next-generation mobility systems encompassing autonomous robotics, user-inclusive vehicles, and a cross-domain mobility ecosystem") 외에 산출물·주관 부서·일정·예산을 적지 않는다.
 - research 페이지는 `papers.bib` 하나로 생성한다: 진행 중 항목(@misc, `abbr = {Ongoing}`/`{Submitted}`)과 논문을 섞어 `year` 내림차순 + `sortkey` 오름차순.
 - 뉴스 날짜는 공지일 기준(Jekyll은 미래 날짜 글을 빌드에서 뺀다). 예정 항목은 본문을 "Upcoming:"으로 시작한다.
-- `baseurl` 규칙: GitHub Pages 프로젝트 주소(`heeseonkimsun.github.io/agxlab.io`)일 때는 `/agxlab.io`, 커스텀 도메인 연결 후에는 빈 값. 링크는 항상 `relative_url` 필터를 거친다.
+- **도메인 연결 완료(2026-08-31)**: `url: https://agxlab.cau.ac.kr`, `baseurl:` 빈 값. 루트 `CNAME` 파일(`agxlab.cau.ac.kr`)을 지우면 연결이 끊긴다.
+  교내 DNS는 `agxlab.cau.ac.kr` → CNAME `heeseonkimsun.github.io`(정보통신처 정보인프라팀 등록). 링크는 항상 `relative_url` 필터를 거친다.
+- **Projects 페이지는 한 목록**이다(2026-08-31 통합). `group: research`/`media` 구분은 데이터에 남아 있으나 화면에서는 최신순 한 흐름으로 함께 나온다. `compact` 플래그는 폐지.
 - 논문은 검증된 서지만 넣는다(DOI 확인). 추정 항목을 만들지 않는다.
 - 이 PC에는 Ruby/Jekyll/Docker가 없다. 로컬 빌드 대신 푸시 후 Actions 결과와 배포 페이지 스크린샷으로 확인한다.
 
