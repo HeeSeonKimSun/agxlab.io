@@ -17,8 +17,8 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: apple-touch-icon.png # 180x180 PNG in /assets/img/
 
-url: https://heeseonkimsun.github.io # the base hostname & protocol for your site (switch to https://agxlab.io when the custom domain is connected)
-baseurl: /agxlab.io # the subpath of your site (set to empty, `baseurl:`, when the custom domain is connected)
+url: https://agxlab.cau.ac.kr # the base hostname & protocol for your site
+baseurl: # empty: the site is served at the root of the custom domain
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
