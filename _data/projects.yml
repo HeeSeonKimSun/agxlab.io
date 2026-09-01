@@ -127,7 +127,6 @@
 - title: Wadang-Tang Tung-Tung
   start: 2020-12-20
   group: media
-  compact: true
   period: 2020–2021
   status: completed
   kind: Installation
@@ -138,7 +137,6 @@
 - title: Ultrashorts Project
   start: 2020-09-22
   group: media
-  compact: true
   period: 2020
   status: completed
   kind: Project collaboration
@@ -149,7 +147,6 @@
 - title: Four Seasons
   start: 2019-06-01
   group: media
-  compact: true
   period: 2019
   status: completed
   kind: Media facade
@@ -170,7 +167,6 @@
 - title: Butterfly Lover
   start: 2015-06-01
   group: media
-  compact: true
   period: 2015
   status: completed
   kind: Interactive orchestra project
@@ -201,7 +197,6 @@
 - title: Final Jury
   start: 2017-11-01
   group: media
-  compact: true
   period: 2017
   status: completed
   kind: Service
