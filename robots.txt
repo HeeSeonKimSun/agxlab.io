@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://heeseonkimsun.github.io/agxlab.io/sitemap.xml
+Sitemap: https://agxlab.cau.ac.kr/sitemap.xml
