@@ -223,15 +223,15 @@
   people: Jeong Min Won, Yeojin Yun, Yeonjae Kim
   description: Video production for the media wall at the NEXEN Tire headquarters, presented in the NEXEN Design Gallery exhibition Unlimited Space at THE NEXEN univerCITY.
 
-- title: Game Media Contents Special Lecture
+- title: Game and Media Contents Production
   start: 2026-07-01
   group: research
   period: 2026
   status: completed
-  kind: Special lecture
-  partners: 3D Design Lab, Chung-Ang University
+  kind: Extracurricular programme
+  partners: Da Vinci Anchor Project Group, Chung-Ang University
   people: Jeong Min Won
-  description: A special lecture series on Unreal Engine 5, Blender, and ComfyUI, hosted by the 3D Design Lab. Jeong Min Won of AGX Lab taught the Blender sessions.
+  description: An extracurricular programme on production tools for games and media, covering Unreal Engine 5, Blender, and ComfyUI. Jeong Min Won of AGX Lab taught the Blender sessions.
 
 - title: "Don't Panic!"
   start: 2023-11-29
