@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Professor Hee Seon Kim visited the Faculty of Fundamental Sciences at Vilnius Tech and Vilnius Academy of Arts in Lithuania to discuss academic exchange and collaboration in games and animation.
+The lab's PI visited the Faculty of Fundamental Sciences at Vilnius Tech and Vilnius Academy of Arts in Lithuania to discuss academic exchange and collaboration in games and animation.

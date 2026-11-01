@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The Department of Game Contents and Animation and AGX Lab took part in a European Union Erasmus+ project in Nida, Lithuania, where Professor Hee Seon Kim gave a presentation and demonstration of their work.
+The Department of Game Contents and Animation and AGX Lab took part in a European Union Erasmus+ project in Nida, Lithuania, where the lab's PI gave a presentation and demonstration of their work.
