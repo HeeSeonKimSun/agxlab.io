@@ -19,7 +19,8 @@
 - 진행 중인 건(넥센·서울대 협업 등)은 한 문장 수준으로만 쓰고 예산·상대 이름·저널명을 적지 않는다. 과장 금지. **넥센은 내용 비공개**: 교수님이 준 한 문장("NEXEN, Future Concept Mobility Collaboration, next-generation mobility systems encompassing autonomous robotics, user-inclusive vehicles, and a cross-domain mobility ecosystem") 외에 산출물·주관 부서·일정·예산을 적지 않는다.
 - research 페이지는 `papers.bib` 하나로 생성한다: 진행 중 항목(@misc, `abbr = {Ongoing}`/`{Submitted}`)과 논문을 섞어 `year` 내림차순 + `sortkey` 오름차순.
 - 뉴스 날짜는 공지일 기준(Jekyll은 미래 날짜 글을 빌드에서 뺀다). 예정 항목은 본문을 "Upcoming:"으로 시작한다.
-- 뉴스에 썸네일을 넣을 때는 이미지를 `assets/img/news/`(3:2)에 두고 본문을 `.agx-news-item` 틀로 쓴다(`_news/2026-09-22-vilnius-tech-networking.md` 참고). PC는 글 오른쪽, 휴대폰은 글 아래에 놓인다.
+- 소식은 글자만 쓴다. 썸네일과 긴 설명은 메인의 Recent Projects & Publications에 둔다(교수님 지시, 2026-11-01). 메인에는 소식 6건이 나온다.
+- 메인 Recent Projects에만 내고 Research 페이지에서는 뺄 항목은 bib에 `home_only = {true}`를 붙인다(`_pages/research.md`의 쿼리가 거른다). 활동·방문 기록용.
 - **도메인 연결 완료(2026-08-31)**: `url: https://agxlab.cau.ac.kr`, `baseurl:` 빈 값. 루트 `CNAME` 파일(`agxlab.cau.ac.kr`)을 지우면 연결이 끊긴다.
   교내 DNS는 `agxlab.cau.ac.kr` → CNAME `heeseonkimsun.github.io`(정보통신처 정보인프라팀 등록). 링크는 항상 `relative_url` 필터를 거친다.
 - **Projects 페이지는 한 목록**이다(2026-08-31 통합). `group: research`/`media` 구분은 데이터에 남아 있으나 화면에서는 최신순 한 흐름으로 함께 나온다. `compact` 플래그는 폐지.

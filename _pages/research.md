@@ -28,7 +28,7 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @*[home_only!=true]* %}
 
 </div>
 

@@ -10,7 +10,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: false # rendered in the body below; limit/scrollable are still read by news.liquid
   scrollable: true
-  limit: 3
+  limit: 6
 
 latest_posts:
   enabled: false
