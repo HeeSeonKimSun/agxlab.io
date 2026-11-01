@@ -543,7 +543,7 @@ article .social .contact-note {
 }
 
 // The theme caps the news list inline at 60vw, which clips the third item on a phone.
-// Only six items are shown, so no cap is needed.
+// Only seven items are shown, so no cap is needed.
 .news .table-responsive {
   max-height: none !important;
   overflow: visible !important;

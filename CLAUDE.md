@@ -4,7 +4,7 @@
 
 ## 어디를 고치나
 
-- 내용: `_pages/` (about=홈, people, research=Key Research Outputs, projects, news(메뉴 밖)). 메뉴 순서는 사람 우선: about · people · research · projects, `_data/members.yml`, `_data/projects.yml`, `_bibliography/papers.bib`, `_news/`
+- 내용: `_pages/` (about=홈, people, research=Key Research Outputs, projects, news(메뉴 밖)). 메뉴 순서는 사람 우선: about · people · projects · research, `_data/members.yml`, `_data/projects.yml`, `_bibliography/papers.bib`, `_news/`
 - 설정: `_config.yml` (url/baseurl, 기능 플래그, 폰트 URL, scholar 저자 강조)
 - 로컬 오버라이드(gem 파일을 같은 경로로 덮음): `_sass/_variables.scss`, `_sass/_themes.scss`, `_sass/_typography.scss`, `_includes/footer.liquid`, `_includes/header.liquid`(내비게이션 왼쪽 픽셀 마크), `_includes/news.liquid`(메인 소식은 월까지만, /news/는 일까지)
   - 다른 gem 파일을 덮어야 하면 같은 경로에 파일을 두면 된다(`_layouts/`, `_includes/`). 원본은 https://github.com/al-org-dev/al-folio-core
@@ -19,7 +19,7 @@
 - 진행 중인 건(넥센·서울대 협업 등)은 한 문장 수준으로만 쓰고 예산·상대 이름·저널명을 적지 않는다. 과장 금지. **넥센은 내용 비공개**: 교수님이 준 한 문장("NEXEN, Future Concept Mobility Collaboration, next-generation mobility systems encompassing autonomous robotics, user-inclusive vehicles, and a cross-domain mobility ecosystem") 외에 산출물·주관 부서·일정·예산을 적지 않는다.
 - research 페이지는 `papers.bib` 하나로 생성한다: 진행 중 항목(@misc, `abbr = {Ongoing}`/`{Submitted}`)과 논문을 섞어 `year` 내림차순 + `sortkey` 오름차순.
 - 뉴스 날짜는 공지일 기준(Jekyll은 미래 날짜 글을 빌드에서 뺀다). 예정 항목은 본문을 "Upcoming:"으로 시작한다.
-- 소식은 글자만 쓴다. 썸네일과 긴 설명은 메인의 Recent Projects & Publications에 둔다(교수님 지시, 2026-11-01). 메인에는 소식 6건이 나온다.
+- 소식은 글자만 쓴다. 썸네일과 긴 설명은 메인의 Recent Projects & Publications에 둔다(교수님 지시, 2026-11-01). 메인에는 소식 7건이 나온다.
 - 메인 Recent Projects에만 내고 Research 페이지에서는 뺄 항목은 bib에 `home_only = {true}`를 붙인다(`_pages/research.md`의 쿼리가 거른다). 활동·방문 기록용.
 - **도메인 연결 완료(2026-08-31)**: `url: https://agxlab.cau.ac.kr`, `baseurl:` 빈 값. 루트 `CNAME` 파일(`agxlab.cau.ac.kr`)을 지우면 연결이 끊긴다.
   교내 DNS는 `agxlab.cau.ac.kr` → CNAME `heeseonkimsun.github.io`(정보통신처 정보인프라팀 등록). 링크는 항상 `relative_url` 필터를 거친다.

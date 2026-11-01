@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: Lab projects, industry and international collaborations, and media works.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 {% assign items = site.data.projects | where_exp: "p", "p.draft != true" | where_exp: "p", "p.group != 'screenings'" | sort: "start" | reverse %}

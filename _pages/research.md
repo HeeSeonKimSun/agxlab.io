@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 description: Research areas and key research outputs of the lab.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 ## Research Areas
