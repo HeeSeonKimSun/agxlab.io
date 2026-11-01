@@ -22,6 +22,7 @@ nav_order: 1
     <div class="member-name">{{ m.name }}</div>
     <div class="member-role">{{ m.role }}</div>
     {% if m.email %}<div class="member-links"><a href="mailto:{{ m.email }}">{{ m.email }}</a></div>{% endif %}
+    {% if m.alma_mater %}<div class="member-affil">{{ m.alma_mater }}</div>{% endif %}
   </div>
   <div class="faculty-info">
     <div class="faculty-affil">{{ m.affiliation | newline_to_br }}</div>
