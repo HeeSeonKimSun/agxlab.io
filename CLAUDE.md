@@ -6,7 +6,7 @@
 
 - 내용: `_pages/` (about=홈, people, research=Key Research Outputs, projects, news(메뉴 밖)). 메뉴 순서는 사람 우선: about · people · research · projects, `_data/members.yml`, `_data/projects.yml`, `_bibliography/papers.bib`, `_news/`
 - 설정: `_config.yml` (url/baseurl, 기능 플래그, 폰트 URL, scholar 저자 강조)
-- 로컬 오버라이드(gem 파일을 같은 경로로 덮음): `_sass/_variables.scss`, `_sass/_themes.scss`, `_sass/_typography.scss`, `_includes/footer.liquid`, `_includes/header.liquid`(내비게이션 왼쪽 픽셀 마크)
+- 로컬 오버라이드(gem 파일을 같은 경로로 덮음): `_sass/_variables.scss`, `_sass/_themes.scss`, `_sass/_typography.scss`, `_includes/footer.liquid`, `_includes/header.liquid`(내비게이션 왼쪽 픽셀 마크), `_includes/news.liquid`(메인 소식은 월까지만, /news/는 일까지)
   - 다른 gem 파일을 덮어야 하면 같은 경로에 파일을 두면 된다(`_layouts/`, `_includes/`). 원본은 https://github.com/al-org-dev/al-folio-core
 - 배포: `.github/workflows/deploy.yml` 하나만 남김. `main` 푸시 → `gh-pages` 브랜치로 배포.
 
