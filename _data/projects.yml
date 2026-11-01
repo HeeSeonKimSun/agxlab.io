@@ -2,15 +2,15 @@
 # Fields: title · start (YYYY-MM-DD, sort key) · period (display text) · status (ongoing | upcoming | completed)
 #         kind · partners · people (lab members involved) · description · url (optional) · draft: true (hides the entry)
 
-- title: Erasmus+ 2026, Re-Animation Programme
+- title: European Union Erasmus+ Project 2026
   start: 2026-09-12
   group: research
   period: 2026
-  status: upcoming
-  kind: International
+  status: completed
+  kind: International presentation and demonstration
   partners: Vilnius Academy of Arts (host, Lithuania), Vilnius Tech (Lithuania), Academy of Media Arts Cologne (Germany), University of Greifswald (Germany), ESAD Amiens (France), Anant National University (India), Chung-Ang University (Korea)
   people: Hee Seon Kim
-  description: The Department of Game Contents and Animation and AGX Lab take part in the programme together, presenting Chung-Ang University's game and animation programme.
+  description: The Department of Game Contents and Animation and AGX Lab took part together. Professor Hee Seon Kim gave a presentation and demonstration of their work and held a networking meeting with the Faculty of Fundamental Sciences at Vilnius Tech.
 
 - title: Backpack
   start: 2026-08-12

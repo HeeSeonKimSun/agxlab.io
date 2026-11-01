@@ -548,3 +548,23 @@ article .social .contact-note {
   max-height: none !important;
   overflow: visible !important;
 }
+
+// News rows with a thumbnail: the text keeps the left edge of the rows without one.
+.agx-news-item {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.agx-news-thumb {
+  flex: none;
+  width: 8.5rem;
+  height: auto;
+}
+
+@media (max-width: 575px) {
+  .agx-news-item {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
