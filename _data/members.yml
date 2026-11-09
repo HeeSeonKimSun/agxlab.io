@@ -7,7 +7,7 @@
   role: PI
   affiliation: |
     Associate Professor and Head, Department of Game Contents and Animation, College of Arts
-    Department of Applied Arts Engineering
+    Department of Applied Art and Technology
     Department of Global Creative Art
     Office: Room 303, Building 802, Da Vinci Campus, Chung-Ang University
   image: heeseonkim.jpg
@@ -18,7 +18,7 @@
 - name: Jeong Min Won
   group: Graduate Students
   role: Master's Student
-  affiliation: Department of Applied Arts Engineering, Graduate School, Chung-Ang University
+  affiliation: Department of Applied Art and Technology, Graduate School, Chung-Ang University
   image: jeongmin_won.jpg
   research: Affect elicitation and state curiosity in games, visual uncertainty and level design
 
@@ -34,6 +34,8 @@
   role: Master's Student
   affiliation: Global Creative Art, Graduate School, Chung-Ang University
   image: qiyuan_liu.jpg
+  research: Level design for horror games
+
 - name: Chae Rin Kim
   group: Undergraduate Research Assistants
   role: Undergraduate Research Assistant
@@ -57,3 +59,17 @@
   role: Undergraduate Research Assistant
   affiliation: Department of Game Contents and Animation, Chung-Ang University
   image: weijie_lu.jpg
+
+- name: Yuju Min
+  group: Undergraduate Research Assistants
+  role: Undergraduate Research Assistant
+  affiliation: Department of Game Contents and Animation, Chung-Ang University
+  image: yuju_min.jpg
+  research: Cinematic development and design
+
+- name: Juyong Jeong
+  group: Undergraduate Research Assistants
+  role: Intern
+  affiliation: Department of Game Contents and Animation, Chung-Ang University
+  image: juyong_jeong.jpg
+  research: Narrative animation and development

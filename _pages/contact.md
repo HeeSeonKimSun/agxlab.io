@@ -14,7 +14,7 @@ nav_order: 5
 <p>AGX Lab welcomes students and researchers interested in emotion, cognition, games, animation, and interactive media. We study affective game computing and embodied experience through both creative and empirical approaches. No prior research experience is required: you can start from the basics and build up through coursework, lab projects, and international collaborations.</p>
 
 <ul>
-  <li>Prospective master's and doctoral students in Applied Arts Engineering or Global Creative Art, Graduate School</li>
+  <li>Prospective master's and doctoral students in Applied Art and Technology or Global Creative Art, Graduate School</li>
   <li>Undergraduates in Game Contents and Animation who want to take part in a lab project</li>
   <li>Visiting students and researchers from partner institutions</li>
 </ul>
